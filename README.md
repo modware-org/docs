@@ -35,4 +35,11 @@ With Softreck’s API Foundation, the selection and deployment of an initial pro
 ### Monitoring and report
 Another key deliverable is a detailed report and executive presentation that provides Softreck’s assessment for the customer’s desired connectivity/integration platform maturity. 
 
+## Offer
 
+Now, through the use of innate technology such as Open API and Deep-Link connections, you can integrate that service into your business platform.
+
+Whether it’s through embedded technology or something as simple as a booking widget, your clients can now access our booking system directly. 
+We’ll even offer you a return on any reservations made.
+
+Turning a clever feature into a profitable solution.
