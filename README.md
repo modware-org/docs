@@ -74,7 +74,13 @@ Responsibility:
 ### APIunit
 https://github.com/apiunit
 
-definition of application for generating project on enironment with source code, #MANAGER-ROLE, #ADMIN-ROLE, #DEV-ROLE
+definition of application for generating project on enironment with source code
+
+Responisbility:
++ #MANAGER-ROLE
++ #ADMIN-ROLE
++ #DEV-ROLE
+
 
 ### APIcra
 https://github.com/apicra
