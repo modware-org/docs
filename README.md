@@ -35,11 +35,14 @@ The Solutions allows you to view and experiment with the Foundation API:
 
 ### DevOpsTerminal
 Console Client with WebUI to acces by SSH many servers, #ADMIN-ROLE
+Components:
++ APIexec
 
 ### ProMaGen
 Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts, #END-USER-ROLE, #MANAGER-ROLE
-
-
+Components:
++ APIexec
++ APIcra
 
 
 ### APIbuild
