@@ -31,7 +31,7 @@ A + (number) PI = API
 API Foundation provides solutions for building applications and services in any environment.
 The Foundation API based on shell scripts that allow you to retrieve and manage your data, publish your data to various display services, run geoprocessing models, and more.
 
-The Solutions allows you to view and experiment with the Foundation API:
+The Solutions allows you to view and experiment with the API Foundation:
 
 ### DevOpsTerminal
 https://github.com/DevOpsTerminal
