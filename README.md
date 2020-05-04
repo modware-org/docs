@@ -1,6 +1,7 @@
 # docs
 Documentation API Foundation
 
+API Foundation Service has been developed as a best practice to integration capability of software
 
 # Information
 
