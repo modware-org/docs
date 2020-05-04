@@ -1,4 +1,4 @@
-# What mean API Foundation?
+# What API Foundation is?
 
 API Foundation Service has been developed as a best practice to integration capability of software
 
