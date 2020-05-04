@@ -34,11 +34,15 @@ The Foundation API based on shell scripts that allow you to retrieve and manage 
 The Solutions allows you to view and experiment with the Foundation API:
 
 ### DevOpsTerminal
+https://github.com/DevOpsTerminal
+
 Console Client with WebUI to acces by SSH many servers, #ADMIN-ROLE
 Components:
 + APIexec
 
 ### ProMaGen
+https://github.com/promagen
+
 Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts, #END-USER-ROLE, #MANAGER-ROLE
 Components:
 + APIexec
