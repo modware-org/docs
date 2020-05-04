@@ -36,14 +36,21 @@ The Solutions allows you to view and experiment with the Foundation API:
 ### DevOpsTerminal
 https://github.com/DevOpsTerminal
 
-Console Client with WebUI to acces by SSH many servers, #ADMIN-ROLE
+Console Client with WebUI to acces by SSH many servers
++ #ADMIN-ROLE
+
 Components:
 + APIexec
 
 ### ProMaGen
 https://github.com/promagen
 
-Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts, #END-USER-ROLE, #MANAGER-ROLE
+Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts
+
+Responsibility:
++ #END-USER-ROLE
++ #MANAGER-ROLE
+
 Components:
 + APIexec
 + APIcra
@@ -57,7 +64,10 @@ procesy określające kolejności powstawania nowych wersji oprogramowania, pozw
 Zazwyczaj jest liczbą naturalną (np. numerowanie wersji od 1 lub według roku powstania), liczbą rzeczywistą lub zestawieniem kilku liczb naturalnych. W ostatnim przypadku kolejne liczby oddziela się zazwyczaj kropką, a ich znaczenie jest następujące:
 + Major (numer główny),
 + Minor (numer dodatkowy),
-+ Release (numer wydania),
++ Release (numer wydania)
+
+Responsibility:
++ #MANAGER-ROLE
 
 ![Apibuild1](apibuild1.png)
 
@@ -69,12 +79,18 @@ definition of application for generating project on enironment with source code,
 ### APIcra
 https://github.com/apicra
 
-library of shell scripts , #DEV-ROLE
+library of shell scripts
+
+Responsibility:
++ #DEV-ROLE
 
 ### APIexec
 https://github.com/apiexec
 
-runner for APIcra scripts, #DEV-ROLE
+runner for APIcra scripts
+
+Responsibility:
++ #DEV-ROLE
 
 ![Apibuild2](apibuild2.png)
 
