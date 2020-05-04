@@ -39,14 +39,8 @@ Console Client with WebUI to acces by SSH many servers, #ADMIN-ROLE
 ### ProMaGen
 Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts, #END-USER-ROLE, #MANAGER-ROLE
 
-### APIcra
-library of shell scripts , #DEV-ROLE
 
-### APIexec
-runner for APIcra scripts, #DEV-ROLE
 
-### APIunit
-definition of application for generating project on enironment with source code, #MANAGER-ROLE, #ADMIN-ROLE, #DEV-ROLE
 
 ### APIbuild
 procesy określające kolejności powstawania nowych wersji oprogramowania, pozwala na odróżnienie wersji między sobą. 
@@ -58,7 +52,18 @@ Zazwyczaj jest liczbą naturalną (np. numerowanie wersji od 1 lub według roku 
 
 ![Apibuild1](apibuild1.png)
 
+### APIunit
+definition of application for generating project on enironment with source code, #MANAGER-ROLE, #ADMIN-ROLE, #DEV-ROLE
+
+### APIcra
+library of shell scripts , #DEV-ROLE
+
+### APIexec
+runner for APIcra scripts, #DEV-ROLE
+
 ![Apibuild2](apibuild2.png)
+
+
 
 ### Leadership through software development
 At Softreck, we strive to go beyond securing smart technical resources by aiming to become your strategic advisors, providing both thought leadership and best practice to ensure that you are confident in being able to deliver solid results in less time and increase your ROI (Return on Investment).
