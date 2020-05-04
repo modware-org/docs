@@ -37,6 +37,8 @@ The Solutions allows you to view and experiment with the Foundation API:
 https://github.com/DevOpsTerminal
 
 Console Client with WebUI to acces by SSH many servers
+
+Responsibility:
 + #ADMIN-ROLE
 
 Components:
