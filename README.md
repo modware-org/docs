@@ -52,15 +52,13 @@ definition of application for generating project on enironment with source code,
 procesy określające kolejności powstawania nowych wersji oprogramowania, pozwala na odróżnienie wersji między sobą. 
 
 Zazwyczaj jest liczbą naturalną (np. numerowanie wersji od 1 lub według roku powstania), liczbą rzeczywistą lub zestawieniem kilku liczb naturalnych. W ostatnim przypadku kolejne liczby oddziela się zazwyczaj kropką, a ich znaczenie jest następujące:
-+  Major (numer główny),
++ Major (numer główny),
 + Minor (numer dodatkowy),
 + Release (numer wydania),
 
+![Apibuild1](apibuild1.png)
 
-
-
-You can exercise all of the Foundation API methods through the API Console as well as view documentation and descriptions of the inputs and outputs of each API method. 
-
+![Apibuild2](apibuild2.png)
 
 ### Leadership through software development
 At Softreck, we strive to go beyond securing smart technical resources by aiming to become your strategic advisors, providing both thought leadership and best practice to ensure that you are confident in being able to deliver solid results in less time and increase your ROI (Return on Investment).
@@ -82,3 +80,7 @@ Whether it’s through embedded technology or something as simple as a booking w
 We’ll even offer you a return on any reservations made.
 
 Turning a clever feature into a profitable solution.
+
+
+## HOW TO START?
+You can exercise all of the Foundation API methods through the API Console as well as view documentation and descriptions of the inputs and outputs of each API method. 
