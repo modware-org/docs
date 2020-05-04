@@ -23,6 +23,13 @@ Zadaniem API, interfejsu programowania aplikacji jest dostarczenie:
   
 ## Softreck's API Foundation
 
+API Foundation provides solutions for building applications and services in any environment.
+The Foundation API based on shell scripts that allow you to retrieve and manage your data, publish your data to various display services, run geoprocessing models, and more.
+
+ 
+
+The Smart M.App API Console allows you to view and experiment with the Foundation API. You can exercise all of the Foundation API methods through the API Console as well as view documentation and descriptions of the inputs and outputs of each API method. The API Console is available through the M.App Exchange and is included in an HGDN subscription.
+
 ### Leadership through software development
 At Softreck, we strive to go beyond securing smart technical resources by aiming to become your strategic advisors, providing both thought leadership and best practice to ensure that you are confident in being able to deliver solid results in less time and increase your ROI (Return on Investment).
 
