@@ -21,6 +21,11 @@ Zadaniem API, interfejsu programowania aplikacji jest dostarczenie:
   + definicji klas obiektów
   + oczekiwanych protokołów do komunikacji między aplikacjami
   
+## About logo
+
+A + (number) PI = API
+
+![API logo](API.png)
 ## Softreck's API Foundation
 
 API Foundation provides solutions for building applications and services in any environment.
