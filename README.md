@@ -201,8 +201,8 @@ Turning a clever feature into a profitable solution.
 You can exercise all of the Foundation API methods through the API Console as well as view documentation and descriptions of the inputs and outputs of each API method. 
 
 ## Solutions
-We started in 2018 with few concepts but one idea: fastest development
-in 2020 we are giving solutions:
+We started in 2018 with few concepts but one idea: fastest development.
+Now, in 2020 we are giving solutions:
 
 + [APIcra](http://apicra.com)
 + [APIexec](http://apiexec.com)
