@@ -210,7 +210,8 @@ Now, in 2020 we are giving solutions:
 + [APIbuild](http://apibuild.com)
 
 ## Our Plans
-We are preparing for this and next year cloud solution, which is FaaS implementation:
+We are preparing cloud solution, a FaaS implementation of our current environment solutions:
+
 + [FaaS.ovh](http://faas.ovh)
 it's a simple open solution for public FaaS
 
