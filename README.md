@@ -1,7 +1,7 @@
 # What API Foundation is?
 
 API Foundation provides solutions for building applications and services in any environment.
-The Foundation API based on shell scripts that allow you to retrieve and manage your data, publish your data to various display services, run geoprocessing models, and more.
+The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
 
 ## Why API Foundation?
 
@@ -15,7 +15,8 @@ API Foundation Service has been developed as a best practice to integration capa
 
 ## What we offer You?
 
-We are able to create the best solutions, because we Love Software Development and we create solutions based on adanced projects.
+We Love Software Development and we create the best solutions with pleasure!
+We are able to create the best solutions, because we have deep understanding of technology based on advanced projects.
 We are earning money on trainings for teams which are opened to increase quality of software deelopment at any time.
 We are independent and free to create the best IT solutions on the World!
 
