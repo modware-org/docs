@@ -2,6 +2,7 @@
 
 API Foundation Service has been developed as a best practice to integration capability of software
 
+
 ## About API
 
 API (od ang. application programming interface) 
@@ -39,6 +40,22 @@ API Foundation provides solutions for building applications and services in any 
 The Foundation API based on shell scripts that allow you to retrieve and manage your data, publish your data to various display services, run geoprocessing models, and more.
 
 The Solutions allows you to view and experiment with the API Foundation:
+
+## WHy API Foundation
+
++ such many opensource projects,we ashare open ideas, with wide spectrum of usage
++ our goals are on technical sides, the rule is: better high technical level than high level of monetizing
++ that the reason, why we don't care about fast eraning money, but fast creating usage solutions on wide spectrum.
+
+## Wide spectrum on technical side
+
+For example: if You need solve some problem, many solutions are based on one or few languages which are possible to use in your application.
+Who give you the opportunity to use your own technical solutions with external libraries?
+We are giving you opensource code which is ready to set and go!
+
+
+
+
 
 ### DevOpsTerminal
 https://github.com/DevOpsTerminal
