@@ -53,9 +53,11 @@ We are independent and free to create the best IT solutions on the World!
 
 ## Wide spectrum on technical side
 
-For example: if You need solve some problem, many solutions are based on one or few languages which are possible to use in your application.
-Who give you the opportunity to use your own technical solutions with external libraries?
-We are giving you opensource code which is ready to set and go!
+For example: if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
+In APIFoundation case we are supporting and proiding for each language the same SDK solution, which aaliable to use in your application programming language.
+
+Who give you the opportunity to use your own technical solutions in external libraries?
+We're opened and we're giving You opensource code which is ready to set and go!
 
 No license, no subscriptions, just open and ready to use!
 
