@@ -184,9 +184,9 @@ The selection and deployment of an initial production API capability is used to 
 ## Monitoring and report
 Another key deliverable is a detailed report and executive presentation that provides Softreck’s assessment for the customer’s desired connectivity/integration platform maturity. 
 
-## Offer
+## Our Help
 
-Now, through the use of innate technology such as Open API and Deep-Link connections, you can integrate that service into your business platform.
+We use technology such as Open API and Deep-Link connections, we can integrate that service into your business platform.
 
 Whether it’s through embedded technology or something as simple as a booking widget, your clients can now access our booking system directly. 
 We’ll even offer you a return on any reservations made.
