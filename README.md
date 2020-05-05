@@ -62,8 +62,11 @@ We're opened and we're giving You opensource code which is ready to set and go!
 No license, no subscriptions, just open and ready to use!
 
 
-### DevOpsTerminal
+### [DevOpsTerminal](https://docs.devopsterminal.com/)
+
 https://github.com/DevOpsTerminal
+
+![devops_terminal-cube-green-128.png](https://github.com/DevOpsTerminal/logo/devops_terminal-cube-green-128.png)
 
 Console Client with WebUI to acces by SSH many servers
 
@@ -73,7 +76,10 @@ Responsibility:
 Components:
 + APIexec
 
-### ProMaGen
+### [ProMaGen](https://www.promagen.com/)
+
+![13/cover.png](https://github.com/promagen/13/cover.png)
+
 https://github.com/promagen
 
 Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts
