@@ -1,7 +1,35 @@
 # What API Foundation is?
 
-API Foundation Service has been developed as a best practice to integration capability of software
+API Foundation provides solutions for building applications and services in any environment.
+The Foundation API based on shell scripts that allow you to retrieve and manage your data, publish your data to various display services, run geoprocessing models, and more.
 
+## Softreck's API Foundation
+
+The API Foundation is created and sponsored by the company Softreck from Estonia.
+Softreck Company is sharing tools to give Organisations more benefits, to have under control all steps in software and Hardware Development.
++ Leadership Through Software Development
+
+## Why API Foundation?
+
+API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
+
++ such many opensource projects, we share open ideas with wide spectrum of usage
++ our goals are on technical sides, the rule is: better high technical level than high level of monetizing
++ that the reason, why we don't care about fast eraning money, but fast creating usage solutions on wide spectrum.
+
+We are able to create the best solutions, because we Love Software Development and we create solutions based on adanced projects.
+We are earning money on trainings for teams which are opened to increase quality of software deelopment at any time.
+We are independent and free to create the best IT solutions on the World!
+
+## Wide spectrum on technical side
+
+For example: if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
+In APIFoundation case we are supporting and proiding for each language the same SDK solution, which aaliable to use in your application programming language.
+
+Who give you the opportunity to use your own technical solutions in external libraries?
+We're opened and we're giving You opensource code which is ready to set and go!
+
+No license, no subscriptions, just open and ready to use!
 
 ## About API
 
@@ -28,38 +56,6 @@ A + (number) PI = API
 
 ![API logo](API.png)
 
-
-## About Softreck
-
-"We share tools to give Your Organisation more benefits, to have under control all steps in software and Hardware Development. To give Your customers the best Product and Service!"
-+ Leadership Through Software Development
-
-## Softreck's API Foundation
-
-API Foundation provides solutions for building applications and services in any environment.
-The Foundation API based on shell scripts that allow you to retrieve and manage your data, publish your data to various display services, run geoprocessing models, and more.
-
-The Solutions allows you to view and experiment with the API Foundation:
-
-## Why API Foundation?
-
-+ such many opensource projects, we share open ideas with wide spectrum of usage
-+ our goals are on technical sides, the rule is: better high technical level than high level of monetizing
-+ that the reason, why we don't care about fast eraning money, but fast creating usage solutions on wide spectrum.
-
-We are able to create the best solutions, because we Love Software Development and we create solutions based on adanced projects.
-We are earning money on trainings for teams which are opened to increase quality of software deelopment at any time.
-We are independent and free to create the best IT solutions on the World!
-
-## Wide spectrum on technical side
-
-For example: if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
-In APIFoundation case we are supporting and proiding for each language the same SDK solution, which aaliable to use in your application programming language.
-
-Who give you the opportunity to use your own technical solutions in external libraries?
-We're opened and we're giving You opensource code which is ready to set and go!
-
-No license, no subscriptions, just open and ready to use!
 
 
 ### [DevOpsTerminal](https://docs.devopsterminal.com/)
