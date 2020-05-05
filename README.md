@@ -198,3 +198,20 @@ Turning a clever feature into a profitable solution.
 
 # HOW TO START?
 You can exercise all of the Foundation API methods through the API Console as well as view documentation and descriptions of the inputs and outputs of each API method. 
+
+## Solutions
+We started in 2018 with few concepts but one idea: fastest development
+in 2020 we are giving solutions:
+
++ [APIcra](http://apicra.com)
++ [APIexec](http://apiexec.com)
++ [APIunit](http://APIunit.com)
++ [APIbuild](http://apibuild.com)
+
+## Our Plans
+We are preparing for this and next year cloud solution, which is FaaS implementation:
++ [FaaS.ovh](http://faas.ovh)
+it's a simple open solution for public FaaS
+
+For private, company private API with authorisation we preparing the FaaSapp platform
++ [FaaSapp.com](http://faasapp.com)
