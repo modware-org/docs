@@ -112,7 +112,10 @@ Responsibility:
 
 ![Apibuild1](apibuild1.png)
 
-### APIunit
+### [APIunit](http://APIunit.com)
+
+![apiunit-logo.png](http://logo.apiunit.com/apiunit-logo.png)
+
 https://github.com/apiunit
 
 definition of application for generating project on enironment with source code
@@ -123,7 +126,10 @@ Responisbility:
 + #DEV-ROLE
 
 
-### APIcra
+### [APIcra](http://apicra.com)
+
+![apicra-logo.png](http://logo.apicra.com/apicra-logo.png)
+
 https://github.com/apicra
 
 library of shell scripts
