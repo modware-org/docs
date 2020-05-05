@@ -179,7 +179,7 @@ At Softreck, we strive to go beyond securing smart technical resources by aiming
 That is why our specialised team is built with the right mix of highly skilled architects and consultants, supported by management with years of industry experience.
 
 ## Capabilities and requirements of application
-With Softreck’s API Foundation, the selection and deployment of an initial production API capability is used to prioritise and showcase the baseline platform, whilst delivering a tangible benefit to the business through better alignment and communication of capabilities and requirements.
+The selection and deployment of an initial production API capability is used to prioritise and showcase the baseline platform, whilst delivering a tangible benefit to the business through better alignment and communication of capabilities and requirements.
 
 ## Monitoring and report
 Another key deliverable is a detailed report and executive presentation that provides Softreck’s assessment for the customer’s desired connectivity/integration platform maturity. 
