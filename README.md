@@ -64,41 +64,6 @@ A + (number) PI = API
 ---
 
 
-# The projects are using our solutions
-
-## [DevOpsTerminal](https://docs.devopsterminal.com/)
-
-![devops_terminal-cube-green-128.png](https://logo.DevOpsTerminal.com/devops_terminal-cube-green-128.png)
-
-https://github.com/DevOpsTerminal
-
-
-Console Client with WebUI to acces by SSH many servers
-
-Responsibility:
-+ #ADMIN-ROLE
-
-Components:
-+ APIexec
-
-## [ProMaGen](https://www.promagen.com/)
-
-![13/cover.png](https://logo.promagen.com/13/cover.png)
-
-https://github.com/promagen
-
-Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts
-
-Responsibility:
-+ #END-USER-ROLE
-+ #MANAGER-ROLE
-
-Components:
-+ APIexec
-+ APIcra
-
-
----
 
 
 
@@ -165,7 +130,41 @@ Responsibility:
 
 ---
 
+# The projects are using API Foundation solutions
 
+## [DevOpsTerminal](https://docs.devopsterminal.com/)
+
+![devops_terminal-cube-green-128.png](https://logo.DevOpsTerminal.com/devops_terminal-cube-green-128.png)
+
+https://github.com/DevOpsTerminal
+
+
+Console Client with WebUI to acces by SSH many servers
+
+Responsibility:
++ #ADMIN-ROLE
+
+Components:
++ APIexec
+
+## [ProMaGen](https://www.promagen.com/)
+
+![13/cover.png](https://logo.promagen.com/13/cover.png)
+
+https://github.com/promagen
+
+Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts
+
+Responsibility:
++ #END-USER-ROLE
++ #MANAGER-ROLE
+
+Components:
++ APIexec
++ APIcra
+
+
+---
 
 # Softreck's API Foundation
 
