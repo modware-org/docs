@@ -164,23 +164,23 @@ Responsibility:
 
 
 
-## Softreck's API Foundation
+# Softreck's API Foundation
 
 The API Foundation is created and sponsored by the Softreck from Estonia.
 Softreck Company is sharing tools to give Organisations more benefits, to have under control all steps in software and Hardware Development.
 + [Leadership Through Software Development](https://softreck.com)
 
 
-### Leadership through software development
+## Leadership through software development
 At Softreck, we strive to go beyond securing smart technical resources by aiming to become your strategic advisors, providing both thought leadership and best practice to ensure that you are confident in being able to deliver solid results in less time and increase your ROI (Return on Investment).
 
-### Team
+## Team
 That is why our specialised team is built with the right mix of highly skilled architects and consultants, supported by management with years of industry experience.
 
-### Capabilities and requirements of application
+## Capabilities and requirements of application
 With Softreck’s API Foundation, the selection and deployment of an initial production API capability is used to prioritise and showcase the baseline platform, whilst delivering a tangible benefit to the business through better alignment and communication of capabilities and requirements.
 
-### Monitoring and report
+## Monitoring and report
 Another key deliverable is a detailed report and executive presentation that provides Softreck’s assessment for the customer’s desired connectivity/integration platform maturity. 
 
 ## Offer
@@ -192,6 +192,8 @@ We’ll even offer you a return on any reservations made.
 
 Turning a clever feature into a profitable solution.
 
+---
 
-## HOW TO START?
+
+# HOW TO START?
 You can exercise all of the Foundation API methods through the API Console as well as view documentation and descriptions of the inputs and outputs of each API method. 
