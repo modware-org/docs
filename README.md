@@ -41,11 +41,13 @@ The Foundation API based on shell scripts that allow you to retrieve and manage 
 
 The Solutions allows you to view and experiment with the API Foundation:
 
-## WHy API Foundation
+## Why API Foundation
 
 + such many opensource projects,we ashare open ideas, with wide spectrum of usage
 + our goals are on technical sides, the rule is: better high technical level than high level of monetizing
 + that the reason, why we don't care about fast eraning money, but fast creating usage solutions on wide spectrum.
+Because we Love our job and we are able to create good solutions, we are earning money on another side, with trainings.
+Thanks it, we are independent and free to create the best IT solutions on the World!
 
 ## Wide spectrum on technical side
 
