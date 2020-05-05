@@ -104,6 +104,9 @@ Components:
 
 ## API Foundation solutions
 
+![Apibuild1](apibuild1.png)
+
+
 ### [APIbuild](http://apibuild.com)
 
 ![apibuild-logo.png](http://logo.apibuild.com/apibuild-logo.png)
@@ -120,7 +123,6 @@ Zazwyczaj jest liczbą naturalną (np. numerowanie wersji od 1 lub według roku 
 Responsibility:
 + #MANAGER-ROLE
 
-![Apibuild1](apibuild1.png)
 
 ### [APIunit](http://APIunit.com)
 
