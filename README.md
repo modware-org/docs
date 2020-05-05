@@ -137,7 +137,10 @@ library of shell scripts
 Responsibility:
 + #DEV-ROLE
 
-### APIexec
+### [APIexec](http://apiexec.com)
+
+![apiexec-logo.png](http://logo.apiexec.com/apiexec-logo.png)
+
 https://github.com/apiexec
 
 runner for APIcra scripts
