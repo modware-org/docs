@@ -66,7 +66,12 @@ A + (number) PI = API
 
 
 
-### [DevOpsTerminal](https://docs.devopsterminal.com/)
+---
+
+
+# The projects are using our solutions
+
+## [DevOpsTerminal](https://docs.devopsterminal.com/)
 
 ![devops_terminal-cube-green-128.png](https://logo.DevOpsTerminal.com/devops_terminal-cube-green-128.png)
 
@@ -81,7 +86,7 @@ Responsibility:
 Components:
 + APIexec
 
-### [ProMaGen](https://www.promagen.com/)
+## [ProMaGen](https://www.promagen.com/)
 
 ![13/cover.png](https://logo.promagen.com/13/cover.png)
 
@@ -97,6 +102,12 @@ Components:
 + APIexec
 + APIcra
 
+
+---
+
+
+
+## API Foundation solutions
 
 ### [APIbuild](http://apibuild.com)
 
