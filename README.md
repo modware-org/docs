@@ -13,23 +13,29 @@ Softreck Company is sharing tools to give Organisations more benefits, to have u
 
 API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
 
+## Benefits
+
 + such many opensource projects, we share open ideas with wide spectrum of usage
 + our goals are on technical sides, the rule is: better high technical level than high level of monetizing
 + that the reason, why we don't care about fast eraning money, but fast creating usage solutions on wide spectrum.
+
+## What we offer You?
 
 We are able to create the best solutions, because we Love Software Development and we create solutions based on adanced projects.
 We are earning money on trainings for teams which are opened to increase quality of software deelopment at any time.
 We are independent and free to create the best IT solutions on the World!
 
-## Wide spectrum on technical side
+### Example of wide spectrum on technical side
 
-For example: if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
+if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
 In APIFoundation case we are supporting and proiding for each language the same SDK solution, which aaliable to use in your application programming language.
 
 Who give you the opportunity to use your own technical solutions in external libraries?
 We're opened and we're giving You opensource code which is ready to set and go!
 
+---
 No license, no subscriptions, just open and ready to use!
+---
 
 ## About API
 
