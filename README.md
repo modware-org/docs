@@ -66,7 +66,7 @@ No license, no subscriptions, just open and ready to use!
 
 https://github.com/DevOpsTerminal
 
-![devops_terminal-cube-green-128.png](https://github.com/DevOpsTerminal/logo/devops_terminal-cube-green-128.png)
+![devops_terminal-cube-green-128.png](https://logo.DevOpsTerminal.com/devops_terminal-cube-green-128.png)
 
 Console Client with WebUI to acces by SSH many servers
 
@@ -78,7 +78,7 @@ Components:
 
 ### [ProMaGen](https://www.promagen.com/)
 
-![13/cover.png](https://github.com/promagen/13/cover.png)
+![13/cover.png](https://logo.promagen.com/13/cover.png)
 
 https://github.com/promagen
 
