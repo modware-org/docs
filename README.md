@@ -3,12 +3,6 @@
 API Foundation provides solutions for building applications and services in any environment.
 The Foundation API based on shell scripts that allow you to retrieve and manage your data, publish your data to various display services, run geoprocessing models, and more.
 
-## Softreck's API Foundation
-
-The API Foundation is created and sponsored by the company Softreck from Estonia.
-Softreck Company is sharing tools to give Organisations more benefits, to have under control all steps in software and Hardware Development.
-+ Leadership Through Software Development
-
 ## Why API Foundation?
 
 API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
@@ -165,6 +159,16 @@ Responsibility:
 
 ![Apibuild2](apibuild2.png)
 
+
+---
+
+
+
+## Softreck's API Foundation
+
+The API Foundation is created and sponsored by the company Softreck from Estonia.
+Softreck Company is sharing tools to give Organisations more benefits, to have under control all steps in software and Hardware Development.
++ Leadership Through Software Development
 
 
 ### Leadership through software development
