@@ -64,9 +64,10 @@ No license, no subscriptions, just open and ready to use!
 
 ### [DevOpsTerminal](https://docs.devopsterminal.com/)
 
+![devops_terminal-cube-green-128.png](https://logo.DevOpsTerminal.com/devops_terminal-cube-green-128.png)
+
 https://github.com/DevOpsTerminal
 
-![devops_terminal-cube-green-128.png](https://logo.DevOpsTerminal.com/devops_terminal-cube-green-128.png)
 
 Console Client with WebUI to acces by SSH many servers
 
@@ -93,7 +94,10 @@ Components:
 + APIcra
 
 
-### APIbuild
+### [APIbuild](http://apibuild.com)
+
+![apibuild-logo.png](http://logo.apibuild.com/apibuild-logo.png)
+  
 https://github.com/api-build
 
 procesy określające kolejności powstawania nowych wersji oprogramowania, pozwala na odróżnienie wersji między sobą. 
