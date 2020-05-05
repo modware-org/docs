@@ -41,13 +41,15 @@ The Foundation API based on shell scripts that allow you to retrieve and manage 
 
 The Solutions allows you to view and experiment with the API Foundation:
 
-## Why API Foundation
+## Why API Foundation?
 
-+ such many opensource projects,we ashare open ideas, with wide spectrum of usage
++ such many opensource projects, we share open ideas with wide spectrum of usage
 + our goals are on technical sides, the rule is: better high technical level than high level of monetizing
 + that the reason, why we don't care about fast eraning money, but fast creating usage solutions on wide spectrum.
-Because we Love our job and we are able to create good solutions, we are earning money on another side, with trainings.
-Thanks it, we are independent and free to create the best IT solutions on the World!
+
+We are able to create the best solutions, because we Love Software Development and we create solutions based on adanced projects.
+We are earning money on trainings for teams which are opened to increase quality of software deelopment at any time.
+We are independent and free to create the best IT solutions on the World!
 
 ## Wide spectrum on technical side
 
@@ -55,8 +57,7 @@ For example: if You need solve some problem, many solutions are based on one or 
 Who give you the opportunity to use your own technical solutions with external libraries?
 We are giving you opensource code which is ready to set and go!
 
-
-
+No license, no subscriptions, just open and ready to use!
 
 
 ### DevOpsTerminal
