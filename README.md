@@ -76,9 +76,9 @@ A + (number) PI = API
 ![Apibuild1](apibuild1.png)
 
 
-### [APIbuild](http://apibuild.com)
+### [APIbuild](https://apibuild.com)
 
-![apibuild-logo.png](http://logo.apibuild.com/apibuild-logo.png)
+![apibuild-logo.png](https://logo.apibuild.com/apibuild-logo.png)
   
 https://github.com/api-build
 
@@ -93,7 +93,7 @@ Responsibility:
 + #MANAGER-ROLE
 
 
-### [APIunit](http://APIunit.com)
+### [APIunit](https://APIunit.com)
 
 ![apiunit-logo.png](https://logo.apiunit.com/apiunit-logo.png)
 
@@ -118,9 +118,9 @@ library of shell scripts
 Responsibility:
 + #DEV-ROLE
 
-### [APIexec](http://apiexec.com)
+### [APIexec](https://apiexec.com)
 
-![apiexec-logo.png](http://logo.apiexec.com/apiexec-logo.png)
+![apiexec-logo.png](https://logo.apiexec.com/apiexec-logo.png)
 
 https://github.com/apiexec
 
@@ -208,16 +208,16 @@ You can exercise all of the Foundation API methods through the API Console as we
 We started in 2018 with few concepts but one idea: fastest development.
 Now, in 2020 we are giving solutions:
 
-+ [APIcra](http://apicra.com)
-+ [APIexec](http://apiexec.com)
-+ [APIunit](http://APIunit.com)
-+ [APIbuild](http://apibuild.com)
++ [APIcra](https://apicra.com)
++ [APIexec](https://apiexec.com)
++ [APIunit](https://APIunit.com)
++ [APIbuild](https://apibuild.com)
 
 ## Our Plans
 We are preparing cloud solution, a FaaS implementation of our current environment solutions:
 
-+ [FaaS.ovh](http://faas.ovh)
++ [FaaS.ovh](https://faas.ovh)
 it's a simple open solution for public FaaS
 
 For private, company private API with authorisation we preparing the FaaSapp platform
-+ [FaaSapp.com](http://faasapp.com)
++ [FaaSapp.com](https://faasapp.com)
