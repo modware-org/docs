@@ -1,4 +1,4 @@
-+ [Wersja angielska - EN](https://apifoundation.com/)
++ [Wersja angielska - EN](https://www.apifoundation.com/)
 
 # Czym jest [API Foundation](https://apifoundation.com)?
 
