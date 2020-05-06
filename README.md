@@ -1,6 +1,6 @@
 # What API Foundation is?
 
-![logo](http://logo.apifoundation.com/2/cover.png)
+![logo](https://logo.apifoundation.com/2/cover.png)
 
 API Foundation provides solutions for building applications and services in any environment.
 The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
@@ -95,7 +95,7 @@ Responsibility:
 
 ### [APIunit](http://APIunit.com)
 
-![apiunit-logo.png](http://logo.apiunit.com/apiunit-logo.png)
+![apiunit-logo.png](https://logo.apiunit.com/apiunit-logo.png)
 
 https://github.com/apiunit
 
@@ -107,9 +107,9 @@ Responisbility:
 + #DEV-ROLE
 
 
-### [APIcra](http://apicra.com)
+### [APIcra](https://apicra.com)
 
-![apicra-logo.png](http://logo.apicra.com/apicra-logo.png)
+![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
 
 https://github.com/apicra
 
