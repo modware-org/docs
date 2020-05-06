@@ -1,7 +1,7 @@
 + [EN](https://apifoundation.com/README.html)
 + [PL](https://apifoundation.com/README_PL.html)
 
-# What [API Foundation](https://apifoundation.com) is?
+# Czym jest [API Foundation](https://apifoundation.com)?
 
 ![logo](https://logo.apifoundation.com/2/cover.png)
 
