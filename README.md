@@ -1,6 +1,6 @@
 # What API Foundation is?
 
-![logo](http://logo.apifoundation.com/1/default.png)
+![logo](http://logo.apifoundation.com/2/cover.png)
 
 API Foundation provides solutions for building applications and services in any environment.
 The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
