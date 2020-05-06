@@ -1,5 +1,7 @@
 # What API Foundation is?
 
+![logo](http://logo.apifoundation.com/1/cover.png)
+
 API Foundation provides solutions for building applications and services in any environment.
 The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
 
@@ -19,6 +21,8 @@ We Love Software Development and we create the best solutions with pleasure!
 We are able to create the best solutions, because we have deep understanding of technology based on advanced projects.
 We are earning money on trainings for teams which are opened to increase quality of software deelopment at any time.
 We are independent and free to create the best IT solutions on the World!
+
++ [EDUCATION.md](EDUCATION.md)
 
 ### Example of wide spectrum on technical side
 
