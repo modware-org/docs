@@ -11,6 +11,28 @@ The Foundation API based on shell scripts that allow you to retrieve, manage and
 
 API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
 
+## Idea
+skąd wzięła się idea ekosystemu API Foundation?
+
+Jako programiści na co dzień używamy zestawu narzędzi,
+działamy w oparciu o sprawdzone standardy,
+korzystamy z ekosystemów zapewniających jakość finalnej usługi, aplikacji.
+Idea wzięła sie z czystej pragmatycznej praktyki, z lat doświadczeń i małych ale setek ulepszeń w trakcie korzystania.
+
+Tak w kilka lat powstał gotowy do pokazania ekosystem, który z powodzeniem  może być stosowane przez dowolnej skali firmy i aplikacje.
+
+Kluczowe jest tylko określenie wartości jakich chcemy się trzymać, czy wolimy bardziej kontrolować lokalne środowiska, czy delegować zarządzanie chmurze?
+
+Dlaczego warto z pośród tak wielu wybrać rozwiązanie API Foundation?
+- w zasadzie niczego nie trzeba zmieniać, warto spojrzeć na to rozwiązanie jako
+zbiór dobrych praktyk zestawionych w jeden spójny ekosystem i co ważne ze wsparciem merytorycznym samego twórcy.
+
+API foundation dedykuje rozwiązania do natywnych środowisk różnych systemów opepracyjnych,
+nie chcemy narzucać własnych rozwiązać a pomóc tym, którzy je sobie chcą sami zorganizować
+w oparciu o sprawdzony i przetestowany kod.
+
+
+
 ## Benefits
 
 + such many opensource projects, we share open ideas with wide spectrum of usage
