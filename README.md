@@ -78,7 +78,7 @@ A + (number) PI = API
 ![Apibuild1](apibuild1.png)
 
 
-### [APIbuild](https://apibuild.com)
+### [APIbuild](https://www.apibuild.com)
 
 ![apibuild-logo.png](https://logo.apibuild.com/apibuild-logo.png)
 
@@ -95,7 +95,7 @@ Responsibility:
 + #MANAGER-ROLE
 
 
-### [APIunit](https://APIunit.com)
+### [APIunit](https://www.apiunit.com)
 
 ![apiunit-logo.png](https://logo.apiunit.com/apiunit-logo.png)
 
@@ -109,7 +109,7 @@ Responisbility:
 + #DEV-ROLE
 
 
-### [APIcra](https://apicra.com)
+### [APIcra](https://www.apicra.com)
 
 ![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
 
@@ -120,7 +120,7 @@ library of shell scripts
 Responsibility:
 + #DEV-ROLE
 
-### [APIexec](https://apiexec.com)
+### [APIexec](https://www.apiexec.com)
 
 ![apiexec-logo.png](https://logo.apiexec.com/apiexec-logo.png)
 
