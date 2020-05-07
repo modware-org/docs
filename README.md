@@ -216,6 +216,7 @@ Now, in 2020 we are giving solutions:
 + [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
 + [APIsql - data models](https://www.apisql.com)
 
+
 ## Our Plans
 We are preparing cloud solution, a FaaS implementation of our current environment solutions:
 
