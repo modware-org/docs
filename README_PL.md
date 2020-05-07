@@ -20,8 +20,16 @@ korzystamy z ekosystemów zapewniających jakość finalnej usługi, aplikacji.
 Idea wzięła sie z czystej pragmatycznej praktyki, z lat doświadczeń i małych ale setek ulepszeń w trakcie korzystania.
 
 Tak w kilka lat powstał gotowy do pokazania ekosystem, który z powodzeniem  może być stosowane przez dowolnej skali firmy i aplikacje.
-
 Kluczowe jest tylko określenie wartości jakich chcemy się trzymać, czy wolimy bardziej kontrolować lokalne środowiska, czy delegować zarządzanie chmurze?
+Rozwiązanie API Foundation docenią organizacje ceniące sobie zasoby, gdyż ani techniczne, finansowe czy merytoryczne nie są tutaj przeszkodą nawet
+dla jednoosobowej organizacji, wszystkie elementy można wdrożyć w kilka godzin
+w ciągu normalnego dnia roboczego online.
+Tutaj nie ma ograniczeń, potrzebna jest wolna wola i otwarty edytor.
+Zapewniamy narzędzia do komunikacji oraz darmowe materiały edukacyjne, również na platformie Youtube, za darmo.
+Naszym celem jest udostępnienie wielu organizacjom na świecie sprawdzonych praktyk w budowaniu oprogramowania i jego zarządzania.
+Chcemy pokazać, że bycie liderem na rynku jest osiągalne bardzo szybko w oparciu o dobre rozwiązania.
+Zgodnie z zasadami panującymi w firmie, która jest patronem API Foundation, Softreck - Leadership Through Software Development.
+
 
 Dlaczego warto z pośród tak wielu wybrać rozwiązanie API Foundation?
 - w zasadzie niczego nie trzeba zmieniać, warto spojrzeć na to rozwiązanie jako
