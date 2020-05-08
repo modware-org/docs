@@ -175,6 +175,17 @@ Responisbility:
 + #DEV-ROLE
 
 
+### [APIsql](https://www.apisql.com)
+
+![apisql-logo.png](https://logo.apisql.com/apisql-logo.png)
+
+https://github.com/apisql
+
+Data integration for models statements
+
+Responsibility:
++ #DEV-ROLE
+
 ### [APIcra](https://www.apicra.com)
 
 ![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
