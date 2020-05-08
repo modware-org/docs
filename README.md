@@ -33,10 +33,10 @@ The roles are clear:
 
 #### Simplicity
 + Make it simple such is possible!
-#### Transparent
+#### Transparent (for everyone)
 + Create readable & testable code of your environment through standards
-#### Opened
-+ Use opened solutions, which are free and opensource for long term with support on community
+#### Opened (for The Future)
++ Use opened solutions, which are free and opensource for long term with support & community
 
 
 ## Benefits
