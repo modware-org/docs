@@ -29,7 +29,7 @@ If You are creating serious software for long term, the perspective is very impo
 That's why API Foundation is not creating new tool, just using the old school tools in beauty way, because  
 the quality is for us very important and we expect long-term but not a popular solution for today!
 
-The roles are clear:
+### The roles are clear:
 
 #### Simplicity
 + Make it simple such is possible!
@@ -41,6 +41,7 @@ The roles are clear:
 
 ## Benefits
 
++ low entry threshold for learning / understanding these standards
 + such many opensource projects, we share open ideas with wide spectrum of usage
 + our goals are on technical sides, the rule is: better high technical level than high level of monetizing
 + that the reason, why we don't care about fast earaning money, but fast creating usage solutions on wide spectrum.
