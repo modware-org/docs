@@ -36,8 +36,8 @@ It can take next 50 years for support API Foundation solutions.
 
 We know it and we are ready for it!
 
-How change the technology?
-How change the people and world?
+How will change the technology?
+How will change the people and world?
 
 Nobody know's, so the best what we can do know, is prepare understndable and tested solutionm for decades.
 
