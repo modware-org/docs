@@ -42,7 +42,7 @@ w oparciu o sprawdzony i przetestowany kod.
 
 ## Przykładowy scenariusz
 
-Wyorbaźmy sobie kolejny dzień pracy, tym razem zaczynamy nowy projekt, nowe środowisko.
+Wyobraźmy sobie kolejny dzień pracy, tym razem zaczynamy nowy projekt, nowe środowisko.
 Początki bywają trudne, dlatego powoli zagłębiamy się w dokumentację, szukamy rozwiązania na napotkane błędy.
 
 Oczywiście jest masa rozwiązań chmurowych, wirtualizacji, ale w naszym małym projekcie nie mamy tyle czasu,  
