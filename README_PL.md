@@ -4,10 +4,11 @@
 
 ![logo](https://logo.apifoundation.com/2/cover.png)
 
-API Foundation provides solutions for building applications and services in any environment.
-The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
+API Foundation oferuje rozwiązania do budowania aplikacji i usług w dowolnym środowisku.
+Podstawowy interfejs API oparty na skryptach powłoki, które  
+umożliwiają pobieranie, zarządzanie, przetwarzania i publikowanie danych.
 
-## Why API Foundation?
+## Dlaczego API Foundation?
 
 API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
 
@@ -39,7 +40,35 @@ API foundation dedykuje rozwiązania do natywnych środowisk różnych systemów
 nie chcemy narzucać własnych rozwiązać a pomóc tym, którzy je sobie chcą sami zorganizować
 w oparciu o sprawdzony i przetestowany kod.
 
+## Przykładowy scenariusz
 
+Wyorbaźmy sobie kolejny dzień pracy, tym razem zaczynamy nowy projekt, nowe środowisko.
+Początki bywają trudne, dlatego powoli zagłębiamy się w dokumentację, szukamy rozwiązania na napotkane błędy.
+
+Oczywiście jest masa rozwiązań chmurowych, wirtualizacji, ale w naszym małym projekcie nie mamy tyle czasu,  
+dlatego wszystko jest z jednej strony proste ale z drugiej nowe i trzeba samemu sobie poradzić, gdyż nie ma osoby, która wcześniej się tym zajmowała.
+
+Tutaj jest właśnie miejsce na rozwiązanie, jakie na co dzień po części stosujemy, ale nową jakość daje sam ekosystem, który
+zdefiniowany przez API Foundation daje przewagę wielu lat doświadczenia.
+
+Jakie wobec tego mamy rozwiązanie?
+Tak jak już wcześniej przy pisaniu oprogramowania, to kod jest dokumentacją  
+tak samo i przy instalowaniu środowisko do uruchomienia kodu, to skrypty powłoki shell są dokumentacją wymaganych zależności.
+
+Przykładowo instalacja odpowiedniej wersji języka PHP, wymaga jej sprawdzenia i decyzji, czy ta wersja jest odpowiednia do uruchomienia.
+
+Często odpowiedzialny jest za to composer, ale nawet jeśli go nie ma, lub jeszcze nie jest zainstalowany to skrypty shell zainicjują go w lokalnym
+lub produkcyjnym środowisku.
+
+Język opisowy w rozwiązaniu APICRA jest standardem, daje od razu informację o tym co chcemy osiągnąć.
+Każdy skrypt zaczyna się od wyświetlanego przez komendę @echo informacji o przeznaczeniu danego skryptu, np:
+
+    @ECHO OFF
+    echo Check if the application works correctly
+    WHERE php
+    IF %ERRORLEVEL% NEQ 0 (
+        echo PHP is NOT installed!
+    )
 
 ## Benefits
 
