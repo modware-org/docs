@@ -17,13 +17,13 @@ API Foundation Service has been developed as a best practice to integration capa
 
 + such many opensource projects, we share open ideas with wide spectrum of usage
 + our goals are on technical sides, the rule is: better high technical level than high level of monetizing
-+ that the reason, why we don't care about fast eraning money, but fast creating usage solutions on wide spectrum.
++ that the reason, why we don't care about fast earaning money, but fast creating usage solutions on wide spectrum.
 
 ## What we offer You?
 
 We Love Software Development and we create the best solutions with pleasure!
 We are able to create the best solutions, because we have deep understanding of technology based on advanced projects.
-We are earning money on trainings for teams which are opened to increase quality of software deelopment at any time.
+We are earning money on trainings for teams which are opened to increase quality of software development at any time.
 We are independent and free to create the best IT solutions on the World!
 
 + [EDUCATION.md](EDUCATION.md)
@@ -31,7 +31,7 @@ We are independent and free to create the best IT solutions on the World!
 ### Example of wide spectrum on technical side
 
 if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
-In APIFoundation case we are supporting and proiding for each language the same SDK solution, which aaliable to use in your application programming language.
+In APIFoundation case we are supporting and providing for each language the same SDK solution, which avaliable to use in your application programming language.
 
 Who give you the opportunity to use your own technical solutions in external libraries?
 We're opened and we're giving You opensource code which is ready to set and go!
