@@ -18,6 +18,24 @@ API Foundation Service has been developed as a best practice to integration capa
 
 + What You are doing for an environment?
 
+### Alternative way
+
+May be You are using in Your organisation many different solution
+may be one cloud based,
+How old are these technologies, what can be after 10 years?
+If You are creating serious software for long term, the perspective is very important.
+That's why API Foundation is not creating new tool, just using the old school tools in beauty way,
+because the quality is for us very important and we expect long-term but not a popular solution for today!
+
+The roles are clear:
+#### Simplicity
++ Make it simple such is possible!
+#### Transparent
++ Create readable & testable code of your environment through standards
+#### Opened
++ Use opened solutions, which are free and opensource for long term with support on community
+
+
 ## Benefits
 
 + such many opensource projects, we share open ideas with wide spectrum of usage
