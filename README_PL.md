@@ -52,10 +52,17 @@ Tutaj jest właśnie miejsce na rozwiązanie, jakie na co dzień po części sto
 zdefiniowany przez API Foundation daje przewagę wielu lat doświadczenia.
 
 Jakie wobec tego mamy rozwiązanie?
-Tak jak już wcześniej przy pisaniu oprogramowania, to kod jest dokumentacją  
-tak samo i przy instalowaniu środowisko do uruchomienia kodu, to skrypty powłoki shell są dokumentacją wymaganych zależności.
 
-Przykładowo instalacja odpowiedniej wersji języka PHP, wymaga jej sprawdzenia i decyzji, czy ta wersja jest odpowiednia do uruchomienia.
+Tak jak przy pisaniu oprogramowania - to kod jest dokumentacją, tak samo przy instalowaniu środowiska do uruchomienia kodu,  
+to skrypty powłoki shell są dokumentacją wymaganych zależności.
+
+Przykładowo, instalacja odpowiedniej wersji języka PHP wymaga sprawdzenia i decyzji:
+    + czy język PHP istnieje w systemie?
+    + jeśli tak, to czy obecna wersja jest zgodna z oczekiwaną?
+
+Co jeśli jedna z powyżsych opcji nie jest prawdziwa?
+Skrypt powinien jak najlepiej określić sytuację i zasugerować dalsze rozwiązania, poprzez np.  
+ doinstalowanie innego modułu, który rozwiąże brak komponentu, aplikacji, biblioteki.
 
 Często odpowiedzialny jest za to composer, ale nawet jeśli go nie ma, lub jeszcze nie jest zainstalowany to skrypty shell zainicjują go w lokalnym
 lub produkcyjnym środowisku.
