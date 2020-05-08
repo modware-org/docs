@@ -29,6 +29,15 @@ If You are creating serious software for long term, the perspective is very impo
 That's why API Foundation is not creating new tool, just using the old school tools in beauty way, because  
 the quality is for us very important and we expect long-term but not a popular solution for today!
 
+If You are looking for long term solutions the standards are clear, what you can just make better are standards of usage it, such testing
+
+For us is clear that we need solutions for whole life, it can take next 50 years, to support API Foundation solutions,
+we know it and we are ready for do it.
+How change the technology?
+How change the people and world?
+
+Nobody know, so the best what we can do know, is prepare understndable and tested solutionm for decades.
+
 ### The roles are clear:
 
 #### Simplicity
