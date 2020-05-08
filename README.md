@@ -31,15 +31,16 @@ the quality is for us very important and we expect long-term solution, which is 
 
 If You are looking for long term solutions the standards are clear, what you can just make better are standards of usage it, such testing
 
-For us is clear that we need solutions for whole our (not just application) life.  
+For us is clear that we need solution for whole our (not just application) life.  
 It can take next 50 years for support API Foundation solutions.
 
 We know it and we are ready for it!
 
-How will change the technology?
-How will change the people and world?
++ How will change the technology?
++ How will change the people and world?
 
-Nobody know's, so the best what we can do know, is prepare understndable and tested solutionm for decades.
+
+Nobody knows, so the best what we can do now is to prepare the ecosystem with understandable and tested solutions for decades.
 
 ### The roles are clear:
 
