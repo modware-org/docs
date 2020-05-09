@@ -8,6 +8,9 @@ API Foundation oferuje rozwiązania do budowania aplikacji i usług w dowolnym �
 Podstawowy interfejs API oparty na skryptach powłoki, które  
 umożliwiają pobieranie, zarządzanie, przetwarzania i publikowanie danych.
 
+
+    Standaryzacja -> Modularyzacja -> Automatyzacja
+
 ## Dlaczego API Foundation?
 
 API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
