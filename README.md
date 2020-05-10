@@ -10,13 +10,14 @@ Our workflow in SOftware Development is clear:
 
     Standardisation -> Modularisation -> Automation
 
-it"s a Continuous Improvement, never end story.
+it's a Continuous Improvement, never end development.
 
 ## Why API Foundation?
 
 API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
 
-+ What You are doing for an environment?
++ What are You doing for Yours environment?
+
 
 ### Alternative way
 
@@ -82,24 +83,15 @@ We're opened and we're giving You opensource code which is ready to set and go!
     No license, no subscriptions, ready to use!
 
 
-## About API
+## How we understand an API
+
+An application programming interface (API) is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow
 
 API (od ang. application programming interface)
 
-to zbiór reguł opisujący to jak programy komunikują się ze sobą
+Today, with the rise of REST and web services over HTTP, the term is often assumed to refer to APIs of such services when given no other context (see the Web APIs section).
 
-API jest przede wszystkim specyfikacją wytycznych
-Implementacja API jest zestawem rutyn, protokołów i rozwiązań informatycznych do budowy aplikacji komputerowych.
-
-Dodatkowo API może korzystać z komponentów graficznego interfejsu użytkownika.
-
-Definiuje się go na poziomie kodu źródłowego dla składników oprogramowania, na przykład aplikacji, bibliotek, systemu operacyjnego.
-
-Zadaniem API, interfejsu programowania aplikacji jest dostarczenie:
-  + specyfikacji podprogramów
-  + struktur modeli danych
-  + definicji klas obiektów
-  + oczekiwanych protokołów do komunikacji między aplikacjami
+The term API is, by extension, used to refer to the subset of software entities (code, subcomponents, modules, etc.) that serve to actually implement the API of some encompassing component or system.
 
 ## About API logo
 

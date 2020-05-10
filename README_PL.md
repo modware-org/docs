@@ -109,9 +109,7 @@ We're opened and we're giving You opensource code which is ready to set and go!
     No license, no subscriptions, ready to use!
 
 
-## About API
-
-API (od ang. application programming interface)
+## Jak rozumiemy API (od ang. application programming interface)
 
 to zbiór reguł opisujący to jak programy komunikują się ze sobą
 
