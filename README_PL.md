@@ -296,10 +296,22 @@ Now, in 2020 we are giving solutions:
 + [APIfunc - rozwiązania dla FaaS](https://www.apifunc.com)
 
 ## Our Plans
-We are preparing cloud solution, a FaaS implementation of our current environment solutions:
+We are preparing cloud FaaS implementation
 
+### Free Solution
+
+Simple open solution for public FaaS
 + [FaaS.ovh](https://faas.ovh)
-it's a simple open solution for public FaaS
 
-For private, company private API with authorisation we preparing the FaaSapp platform
+
+### Commercial solution
+
+For private usage, API with authorisation
 + [FaaSapp.com](https://faasapp.com)
+
+
+
+## Another solutions
+[A Local Dev Tool For Every Project | Lando](https://lando.dev/)
+[Tandem](https://github.com/thinktandem)
+[Lando](https://github.com/lando)
