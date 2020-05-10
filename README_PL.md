@@ -170,7 +170,7 @@ https://github.com/apiunit
 
 definition of application for generating project on enironment with source code
 
-Responisbility:
+Responsibility:
 + #MANAGER-ROLE
 + #ADMIN-ROLE
 + #DEV-ROLE

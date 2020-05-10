@@ -43,13 +43,18 @@ We know it and we are ready for it!
 
 Nobody knows, so the best what we can do now is to prepare the ecosystem with understandable and tested solutions for decades.
 
-### The roles are clear:
+The roles are clear:
 
 #### Simplicity
+
 + Make it simple such is possible!
+
 #### Transparent (for everyone)
+
 + Create readable & testable code of your environment through standards
+
 #### Opened (for The Future)
+
 + Use opened solutions, which are free and opensource for long term with support & community
 
 
@@ -137,7 +142,7 @@ https://github.com/apiunit
 
 definition of application for generating project on enironment with source code
 
-Responisbility:
+Responsibility:
 + #MANAGER-ROLE
 + #ADMIN-ROLE
 + #DEV-ROLE
