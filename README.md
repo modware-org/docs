@@ -265,6 +265,7 @@ Now, in 2020 we are giving solutions:
 + [APIunit - definition of application, CI, CD](https://www.APIunit.com)
 + [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
 + [APIsql - data bases, queries, models](https://www.apisql.com)
++ [APIfunc - FaaS solutions](https://www.apifunc.com)
 
 
 ## Our Plans

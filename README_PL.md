@@ -292,6 +292,8 @@ Now, in 2020 we are giving solutions:
 + [APIcra - shell scripts libraries](https://www.apicra.com)
 + [APIunit - definition of application, CI, CD](https://www.apiunit.com)
 + [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
++ [APIsql - bazy danych, zapytania, modele](https://www.apisql.com)
++ [APIfunc - rozwiązania dla FaaS](https://www.apifunc.com)
 
 ## Our Plans
 We are preparing cloud solution, a FaaS implementation of our current environment solutions:
