@@ -1,6 +1,6 @@
 + [Wersja angielska - EN](https://www.apifoundation.com/)
 
-# Czym jest [API Foundation](https://apifoundation.com)?
+# Czym jest [API Foundation](https://www.apifoundation.com)?
 
 ![logo](https://logo.apifoundation.com/2/cover.png)
 

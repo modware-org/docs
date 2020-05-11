@@ -1,6 +1,6 @@
-+ [polish version - PL](https://apifoundation.com/README_PL.html)
++ [polish version - PL](https://www.apifoundation.com/README_PL.html)
 
-# What [API Foundation](https://apifoundation.com) is?
+# What [API Foundation](https://www.apifoundation.com) is?
 
 ![logo](https://logo.apifoundation.com/2/cover.png)
 
