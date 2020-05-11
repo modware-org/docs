@@ -256,7 +256,7 @@ Turning a clever feature into a profitable solution.
 # HOW TO START?
 You can exercise all of the Foundation API methods through the API Console as well as view documentation and descriptions of the inputs and outputs of each API method.
 
-## Solutions
+# Solutions
 We started in 2018 with few concepts but one idea: fastest development.
 Now, in 2020 we are giving solutions:
 
