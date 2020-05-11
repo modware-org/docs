@@ -250,7 +250,7 @@ Components:
 
 
 
-[Narzędzia programisty, software developera | Tom Sapletta 'Blog](https://tom.sapletta.pl/automatyzacja/narzedzia-programisty-software-developera/)
+[Narzędzia programisty, software developera - Tom Sapletta 'Blog](https://tom.sapletta.pl/automatyzacja/narzedzia-programisty-software-developera/)
 
 ![tab-comp](docs/tab-comp.png)
 
@@ -301,48 +301,51 @@ Components:
 > w zależności od języka
 >
 > klasy w danym języku
->
-> -   Narzędzia dla programistów:
->     -   [https://devtoolsbox.com](https://devtoolsbox.com)
-> -   **VodApi**
->     -   Dokumentacja dla firmy
->     -   Opis każdego **elementu** niezbędnego do działania firmy
->     -   oraz opis **procesów** koniecznych do uzyskania produktów, usług oferowanych w ramach działalności organizacji
->     -   Specyfikacja **narzędzi**, ludzi, warunków potrzebnych do uzyskania optymalnych efektów
->     -   Opis **zasobów**, idei, wykorzystanie do tego **UnitApi**, gdzie każda aplikacja jest opisana
->     -   np:. Opis sposobów dokumentowania, developmentu, testowania, deploymentu
->     -   Możliwość tworzenia mierzalnych wyników z analizy okresowej zebranych danych
->     -   [https://vodapi.com/](https://vodapi.com/)
+
+-   Narzędzia dla programistów:
+    -   [https://devtoolsbox.com](https://devtoolsbox.com)
+-   **VodApi**
++ Dokumentacja dla firmy
++ Opis każdego **elementu** niezbędnego do działania firmy
++ oraz opis **procesów** koniecznych do uzyskania produktów, usług oferowanych w ramach działalności organizacji
++ Specyfikacja **narzędzi**, ludzi, warunków potrzebnych do uzyskania optymalnych efektów
++ Opis **zasobów**, idei, wykorzystanie do tego **UnitApi**, gdzie każda aplikacja jest opisana
++ np:. Opis sposobów dokumentowania, developmentu, testowania, deploymentu
++ Możliwość tworzenia mierzalnych wyników z analizy okresowej zebranych danych
++ [https://vodapi.com/](https://vodapi.com/)
+
 > -   **UnitApi**
->     -   Definicja aplikacji oraz procesów koniecznych do jej tworzenia
->     -   oraz każdego jej elementu, również zewnętrznego (RESTAPI) w języku naturalnym
->     -   definicja procesów, wykonywanych za pomocą skryptów **ApiCra**
->     -   create, commit, update, upgrade, test
->     -   [https://unitapi.com/](https://unitapi.com/)
->
++ Definicja aplikacji oraz procesów koniecznych do jej tworzenia
++ oraz każdego jej elementu, również zewnętrznego (RESTAPI) w języku naturalnym
++ definicja procesów, wykonywanych za pomocą skryptów **ApiCra**
++ create, commit, update, upgrade, test
++ [https://unitapi.com/](https://unitapi.com/)
+
 > -   **ApiCra**
->     -   implementacja narzędzi i procesów za pomocą skryptów bash’a
->     -   Ustandaryzowanie bibliotek skryptów oraz używania
->     -   skrypty usprawniające tworzenie, aktualizację i serwisowanie aplikacji
->     -   procesy opisane na podstawie definicji **UnitApi**
->     -   [https://apicra.com/](https://apicra.com/)
++ implementacja narzędzi i procesów za pomocą skryptów bash’a
++ Ustandaryzowanie bibliotek skryptów oraz używania
++ skrypty usprawniające tworzenie, aktualizację i serwisowanie aplikacji
++ procesy opisane na podstawie definicji **UnitApi**
++ [https://apicra.com/](https://apicra.com/)
+
 > -   **DevopsTerminal**
->     -   Narzędzie do wizualnego uruchamiania skryptów **ApiCra**, za pomocą przeglądarki internetowej
->     -   Wykorzystuje specyfikację **UnitApi**
->     -   [https://devopsterminal.com/](https://devopsterminal.com/)
++ Narzędzie do wizualnego uruchamiania skryptów **ApiCra**, za pomocą przeglądarki internetowej
++ Wykorzystuje specyfikację **UnitApi**
++ [https://devopsterminal.com/](https://devopsterminal.com/)
+
 > -   **ApiBuild**
->     -   generator kodu API na różne platformy w różnych językach programowania
->     -   biblioteki wspierające komunikacje na zewnątrz aplikacji
->     -   generowanie kodu SDK ze specyfikacji **UnitApi** oraz innych specyfikacji jak **swagger,  
->         **
->     -   [https://apibuild.com/](https://apibuild.com/)
++ generator kodu API na różne platformy w różnych językach programowania
++ biblioteki wspierające komunikacje na zewnątrz aplikacji
++ generowanie kodu SDK ze specyfikacji **UnitApi** oraz innych specyfikacji jak **swagger,
++ [https://apibuild.com/](https://apibuild.com/)
+
 > -   **ApiSql**
->     -   Definicja klas Parametrów oraz Procesów w języku programowania aplikacji
->     -   biblioteki wspierające komunikacje wewnątrz aplikaci, pomiędzy jej modułami
->     -   modelowanie danych i procesów za wykorzystaniem definicji **UnitApi**
->     -   np. wymiana danych pomiędzy bazą danych, formularzem, a RESTAPI
->     -   ustandaryzowanie i przygotowywanie kodu na różne środowiska programowania
->     -   [https://apisql.com/](https://apisql.com/)
++ Definicja klas Parametrów oraz Procesów w języku programowania aplikacji
++ biblioteki wspierające komunikacje wewnątrz aplikaci, pomiędzy jej modułami
++ modelowanie danych i procesów za wykorzystaniem definicji **UnitApi**
++ np. wymiana danych pomiędzy bazą danych, formularzem, a RESTAPI
++ ustandaryzowanie i przygotowywanie kodu na różne środowiska programowania
++ [https://apisql.com/](https://apisql.com/)
 
 ---
 
