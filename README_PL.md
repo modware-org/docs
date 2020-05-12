@@ -24,7 +24,8 @@ Jako programiści, na co dzień używamy wielu zestawów narzędzi.
 + działamy w oparciu o sprawdzone standardy,
 + korzystamy z ekosystemów zapewniających jakość finalnej usługi, aplikacji.
 
-Idea wzięła sie z czystej pragmatycznej praktyki, z lat doświadczeń i małych ale setek ulepszeń w trakcie korzystania z własnych narzędzi, które obecnie rozwijamy w ramach organizacji.
+Idea wzięła sie z praktyki, lat doświadczeń i małych ale setek kroków w trakcie tworzenia i korzystania z własnych narzędzi, które  
+ obecnie rozwijamy i udostępniamy w ramach organizacji.
 
 
 Tak w kilka lat powstał gotowy do pokazania ekosystem, który z powodzeniem  może być stosowane przez dowolnej skali firmy i aplikacje.
