@@ -47,16 +47,27 @@ The roles are clear:
 
 #### Simplicity
 
-+ Make it simple such is possible!
++ [KISS-Prinzip – Keep it simple *](https://de.wikipedia.org/wiki/KISS-Prinzip)
+
++ Keep it simple, stupid
++ Keep it simple and short
++ Keep it simple and smart
++ Keep it simple and straightforward
+
+The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. The phrase has been associated with aircraft engineer Kelly Johnson.[3] The term "KISS principle" was in popular use by 1970.[4] Variations on the phrase include: "Keep it simple, silly", "keep it short and simple", "keep it simple and straightforward",[5] "keep it small and simple", or "keep it stupid simple".[6]
+
+
 
 #### Transparent (for everyone)
 
 + Create readable & testable code of your environment through standards
++ The term transparent is widely used in computing marketing in substitution of the term invisible, since the term invisible has a bad connotation (usually seen as something that the user can't see and has no control over) while the term transparent has a good connotation (usually associated with not hiding anything)
 
 #### Opened (for The Future)
 
 + Use opened solutions, which are free and opensource for long term with support & community
-
++ Open-source code is meant to be a collaborative effort, where programmers improve upon the source code and share the changes within the community.
++ Free and open-source software (FOSS) or Free/libre and open-source software (FLOSS) is openly shared source code that is licensed without any restrictions on usage, modification, or distribution.[citation needed] Confusion persists about this completely unrestricted definition because the "Free", also known as "Libre", refers to the freedom or the product not the price, expense, cost, or charge.
 
 ## Benefits
 
