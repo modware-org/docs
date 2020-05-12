@@ -14,6 +14,7 @@ umożliwiają pobieranie, zarządzanie, przetwarzania i publikowanie danych.
 ## Dlaczego API Foundation?
 
 API Foundation służy doświadczeniem w zakresie integracji oprogramowania, wspierając powstawanie najlepszych produktów i usług!
+Naszym celem jest rozpowszechnianie i wsparcie tych idei i rozwiązań dla każdej otwartej organizacji, społeczności i specjalistów.
 
 ## Idea
 
@@ -96,8 +97,8 @@ Każdy skrypt zaczyna się od wyświetlanego przez komendę @echo informacji o p
 
 ## Korzyści
 
-Istnieją inne dobre rozwiązania i podejścia, API Foundation skupia się na długofalowym wsparciu środowiska,
-zamiaast na krótkotrwałym sukcesie komercyjnym, dlatego te projekty są otwarte i bezpłatne.
+Istnieją inne dobre rozwiązania i podejścia, API Foundation skupia się na długofalowym wsparciu środowiska tworzenia oprgramowania, rzędu dekad a nie lat.
+
 
 + tak jak wiele projektów typu open source, dzielimy się pomysłami i praktyczną wiedzą
 + nasze cele są skupione na osiąganiu lepszego poziomu technicznego a nie zarabianiu
