@@ -13,31 +13,43 @@ umożliwiają pobieranie, zarządzanie, przetwarzania i publikowanie danych.
 
 ## Dlaczego API Foundation?
 
-API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
+API Foundation służy doświadczeniem w zakresie integracji oprogramowania, wspierając powstawanie najlepszych produktów i usług!
 
 ## Idea
-skąd wzięła się idea ekosystemu API Foundation?
 
-Jako programiści na co dzień używamy zestawu narzędzi,
-działamy w oparciu o sprawdzone standardy,
-korzystamy z ekosystemów zapewniających jakość finalnej usługi, aplikacji.
-Idea wzięła sie z czystej pragmatycznej praktyki, z lat doświadczeń i małych ale setek ulepszeń w trakcie korzystania.
++ skąd wzięła się idea ekosystemu API Foundation?
+
+Jako programiści, na co dzień używamy wielu zestawów narzędzi.
+
++ działamy w oparciu o sprawdzone standardy,
++ korzystamy z ekosystemów zapewniających jakość finalnej usługi, aplikacji.
+
+Idea wzięła sie z czystej pragmatycznej praktyki, z lat doświadczeń i małych ale setek ulepszeń w trakcie korzystania z własnych narzędzi, które obecnie rozwijamy w ramach organizacji.
+
 
 Tak w kilka lat powstał gotowy do pokazania ekosystem, który z powodzeniem  może być stosowane przez dowolnej skali firmy i aplikacje.
-Kluczowe jest tylko określenie wartości jakich chcemy się trzymać, czy wolimy bardziej kontrolować lokalne środowiska, czy delegować zarządzanie chmurze?
+Kluczowe jest tylko określenie wartości jakich oczekujemy.
++ czy wolimy bardziej kontrolować lokalne środowiska?
++ czy delegować zarządzanie chmurze?
+
 Rozwiązanie API Foundation docenią organizacje ceniące sobie zasoby, gdyż ani techniczne, finansowe czy merytoryczne nie są tutaj przeszkodą nawet
 dla jednoosobowej organizacji, wszystkie elementy można wdrożyć w kilka godzin
 w ciągu normalnego dnia roboczego online.
+
+
+### Jak i kiedy zacząć?
+
 Tutaj nie ma ograniczeń, potrzebna jest wolna wola i otwarty edytor.
+
 Zapewniamy narzędzia do komunikacji oraz darmowe materiały edukacyjne, również na platformie Youtube, za darmo.
 Naszym celem jest udostępnienie wielu organizacjom na świecie sprawdzonych praktyk w budowaniu oprogramowania i jego zarządzania.
 Chcemy pokazać, że bycie liderem na rynku jest osiągalne bardzo szybko w oparciu o dobre rozwiązania.
 Zgodnie z zasadami panującymi w firmie, która jest patronem API Foundation, Softreck - Leadership Through Software Development.
 
 
-Dlaczego warto z pośród tak wielu wybrać rozwiązanie API Foundation?
-- w zasadzie niczego nie trzeba zmieniać, warto spojrzeć na to rozwiązanie jako
-zbiór dobrych praktyk zestawionych w jeden spójny ekosystem i co ważne ze wsparciem merytorycznym samego twórcy.
+##  Dlaczego warto z pośród tak wielu wybrać rozwiązanie API Foundation?
+w zasadzie niczego nie trzeba zmieniać, warto spojrzeć na to rozwiązanie jako na zbiór dobrych praktyk  
+ zestawionych w jeden spójny ekosystem i co ważne ze wsparciem merytorycznym samych twórców.
 
 API foundation dedykuje rozwiązania do natywnych środowisk różnych systemów opepracyjnych,
 nie chcemy narzucać własnych rozwiązać a pomóc tym, którzy je sobie chcą sami zorganizować
@@ -54,7 +66,7 @@ dlatego wszystko jest z jednej strony proste ale z drugiej nowe i trzeba samemu 
 Tutaj jest właśnie miejsce na rozwiązanie, jakie na co dzień po części stosujemy, ale nową jakość daje sam ekosystem, który
 zdefiniowany przez API Foundation daje przewagę wielu lat doświadczenia.
 
-Jakie wobec tego mamy rozwiązanie?
+### Jakie wobec tego mamy rozwiązanie?
 
 Tak jak przy pisaniu oprogramowania - to kod jest dokumentacją, tak samo przy instalowaniu środowiska do uruchomienia kodu,  
 to skrypty powłoki shell są dokumentacją wymaganych zależności.
@@ -63,7 +75,8 @@ Przykładowo, instalacja odpowiedniej wersji języka PHP wymaga sprawdzenia i de
     + czy język PHP istnieje w systemie?
     + jeśli tak, to czy obecna wersja jest zgodna z oczekiwaną?
 
-Co jeśli jedna z powyżsych opcji nie jest prawdziwa?
+### Co jeśli jedna z powyżsych opcji nie jest prawdziwa?
+
 Skrypt powinien jak najlepiej określić sytuację i zasugerować dalsze rozwiązania, poprzez np.  
  doinstalowanie innego modułu, który rozwiąże brak komponentu, aplikacji, biblioteki.
 
@@ -80,11 +93,14 @@ Każdy skrypt zaczyna się od wyświetlanego przez komendę @echo informacji o p
         echo PHP is NOT installed!
     )
 
-## Benefits
+## Korzyści
 
-+ such many opensource projects, we share open ideas with wide spectrum of usage
-+ our goals are on technical sides, the rule is: better high technical level than high level of monetizing
-+ that the reason, why we don't care about fast eraning money, but fast creating usage solutions on wide spectrum.
+Istnieją dobre rozwiązania, alternatywne podejścia, API Foundation skupia się na długofalowym wsparciu środowiska,
+zamiaast na krótkotrwałym sukcesie komercyjnym, dlatego te projekty są otwarte i bezpłatne.
+
++ tak jak wiele projektów typu open source, dzielimy się pomysłami i praktyczną wiedzą
++ nasze cele są skupione na osiąganiu lepszego poziomu technicznego a nie zarabianiu
++ to jest powód, dla którego nie zależy nam na monetyzacji, ale na szybkim tworzeniu orpgroamowania i jego praktycznego wykorzystania
 
 ## What we offer You?
 
@@ -434,3 +450,5 @@ For private usage, API with authorisation
 [A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 [Tandem](https://github.com/thinktandem)
 [Lando](https://github.com/lando)
+
+
