@@ -40,7 +40,7 @@ w ciągu normalnego dnia roboczego online.
 
 ### Jak i kiedy zacząć?
 
-Tutaj nie ma ograniczeń, potrzebna jest wolna wola i otwarty edytor.
+Tutaj nie ma ograniczeń, potrzebna jest (wolna) wola i (otwarty) edytor.
 
 Zapewniamy narzędzia do komunikacji oraz darmowe materiały edukacyjne, również na platformie Youtube, za darmo.
 Naszym celem jest udostępnienie wielu organizacjom na świecie sprawdzonych praktyk w budowaniu oprogramowania i jego zarządzania.
@@ -73,8 +73,8 @@ Tak jak przy pisaniu oprogramowania - to kod jest dokumentacją, tak samo przy i
 to skrypty powłoki shell są dokumentacją wymaganych zależności.
 
 Przykładowo, instalacja odpowiedniej wersji języka PHP wymaga sprawdzenia i decyzji:
-    + czy język PHP istnieje w systemie?
-    + jeśli tak, to czy obecna wersja jest zgodna z oczekiwaną?
++ czy język PHP istnieje w systemie?
++ jeśli tak, to czy obecna wersja jest zgodna z oczekiwaną?
 
 ### Co jeśli jedna z powyżsych opcji nie jest prawdziwa?
 
