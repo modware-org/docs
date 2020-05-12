@@ -176,6 +176,23 @@ Odpowiedzialna osoba:
 + #DEV-ROLE
 
 
+### [APIfunc](https://www.apifunc.com)
+
+![apifunc-logo.png](https://logo.apifunc.com/apifunc-logo.png)
+
+https://github.com/apifunc
+
+Środowisko do wykonania kodu jednej prostej funkcji dla dowolnego języka programowania z listy:
++ javascript/nodeJS
++ python
++ php
+
+Odpowiedzialna osoba:
++ #DEV-ROLE
+
+
+
+
 ### [APIsql](https://www.apisql.com)
 
 ![apisql-logo.png](https://logo.apisql.com/apisql-logo.png)
@@ -208,22 +225,6 @@ runner for APIcra scripts
 
 Odpowiedzialna osoba:
 + #DEV-ROLE
-
-
-### [APIfunc](https://www.apifunc.com)
-
-![apifunc-logo.png](https://logo.apifunc.com/apifunc-logo.png)
-
-https://github.com/apifunc
-
-Środowisko do wykonania kodu jednej prostej funkcji dla dowolnego języka programowania z listy:
-+ javascript/nodeJS
-+ python
-+ php
-
-Odpowiedzialna osoba:
-+ #DEV-ROLE
-
 
 
 

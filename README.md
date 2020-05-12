@@ -159,42 +159,6 @@ Responsibility:
 + #DEV-ROLE
 
 
-### [APIsql](https://www.apisql.com)
-
-![apisql-logo.png](https://logo.apisql.com/apisql-logo.png)
-
-https://github.com/apisql
-
-Data integration for models statements
-
-Responsibility:
-+ #DEV-ROLE
-
-### [APIcra](https://www.apicra.com)
-
-![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
-
-https://github.com/apicra
-
-library of shell scripts
-
-Responsibility:
-+ #DEV-ROLE
-
-### [APIexec](https://www.apiexec.com)
-
-![apiexec-logo.png](https://logo.apiexec.com/apiexec-logo.png)
-
-https://github.com/apiexec
-
-runner for APIcra scripts
-
-Responsibility:
-+ #DEV-ROLE
-
-![Apibuild2](apibuild2.png)
-
-
 ### [APIfunc](https://www.apifunc.com)
 
 ![apifunc-logo.png](https://logo.apifunc.com/apifunc-logo.png)
@@ -209,6 +173,46 @@ The environment for code execution of one simple function for any programming la
 
 Responsibility:
 + #DEV-ROLE
+
+
+
+### [APIsql](https://www.apisql.com)
+
+![apisql-logo.png](https://logo.apisql.com/apisql-logo.png)
+
+https://github.com/apisql
+
+Data integration for models statements
+
+Responsibility:
++ #DEV-ROLE
+
+
+
+### [APIcra](https://www.apicra.com)
+
+![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
+
+https://github.com/apicra
+
+library of shell scripts
+
+Responsibility:
++ #DEV-ROLE
+
+
+
+### [APIexec](https://www.apiexec.com)
+
+![apiexec-logo.png](https://logo.apiexec.com/apiexec-logo.png)
+
+https://github.com/apiexec
+
+runner for APIcra scripts
+
+Responsibility:
+# DEV-ROLE
+
 
 
 ![Apibuild2](apibuild2.png)
