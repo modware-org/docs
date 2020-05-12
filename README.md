@@ -54,7 +54,12 @@ The roles are clear:
 + Keep it simple and smart
 + Keep it simple and straightforward
 
-The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. The phrase has been associated with aircraft engineer Kelly Johnson.[3] The term "KISS principle" was in popular use by 1970.[4] Variations on the phrase include: "Keep it simple, silly", "keep it short and simple", "keep it simple and straightforward",[5] "keep it small and simple", or "keep it stupid simple".[6]
+The KISS principle states that most systems work best if they are kept simple rather than made complicated;  
+therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided.  
+The phrase has been associated with aircraft engineer Kelly Johnson.  
+The term "KISS principle" was in popular use by 1970.  
+Variations on the phrase include:  
+ "Keep it simple, silly", "keep it short and simple", "keep it simple and straightforward", "keep it small and simple", or "keep it stupid simple".
 
 
 
@@ -67,7 +72,10 @@ The KISS principle states that most systems work best if they are kept simple ra
 
 + Use opened solutions, which are free and opensource for long term with support & community
 + Open-source code is meant to be a collaborative effort, where programmers improve upon the source code and share the changes within the community.
-+ Free and open-source software (FOSS) or Free/libre and open-source software (FLOSS) is openly shared source code that is licensed without any restrictions on usage, modification, or distribution.[citation needed] Confusion persists about this completely unrestricted definition because the "Free", also known as "Libre", refers to the freedom or the product not the price, expense, cost, or charge.
++ Free and open-source software (FOSS) or Free/libre and open-source software (FLOSS) is openly shared source code that is
+licensed without any restrictions on usage, modification, or distribution.
+Confusion persists about this completely unrestricted definition because the "Free", also known as "Libre",
+refers to the freedom or the product not the price, expense, cost, or charge.
 
 ## Benefits
 
@@ -88,7 +96,8 @@ We are independent and free to create the best IT solutions on the World!
 ### Example of wide spectrum on technical side
 
 if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
-In APIFoundation case we are supporting and providing for each language the same SDK solution, which avaliable to use in your application programming language.
+In APIFoundation case we are supporting and providing for each language the same SDK solution, which  
+avaliable to use in your application programming language.
 
 Who give you the opportunity to use your own technical solutions in external libraries?
 We're opened and we're giving You opensource code which is ready to set and go!
