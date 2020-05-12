@@ -158,7 +158,7 @@ Zazwyczaj jest liczbą naturalną (np. numerowanie wersji od 1 lub według roku 
 + Minor (numer dodatkowy),
 + Release (numer wydania)
 
-Responsibility:
+Odpowiedzialna osoba:
 + #MANAGER-ROLE
 
 
@@ -170,7 +170,7 @@ https://github.com/apiunit
 
 definition of application for generating project on enironment with source code
 
-Responsibility:
+Odpowiedzialna osoba:
 + #MANAGER-ROLE
 + #ADMIN-ROLE
 + #DEV-ROLE
@@ -184,7 +184,7 @@ https://github.com/apisql
 
 Data integration for models statements
 
-Responsibility:
+Odpowiedzialna osoba:
 + #DEV-ROLE
 
 ### [APIcra](https://www.apicra.com)
@@ -195,7 +195,7 @@ https://github.com/apicra
 
 library of shell scripts
 
-Responsibility:
+Odpowiedzialna osoba:
 + #DEV-ROLE
 
 ### [APIexec](https://www.apiexec.com)
@@ -206,8 +206,26 @@ https://github.com/apiexec
 
 runner for APIcra scripts
 
-Responsibility:
+Odpowiedzialna osoba:
 + #DEV-ROLE
+
+
+### [APIfunc](https://www.apifunc.com)
+
+![apifunc-logo.png](https://logo.apifunc.com/apifunc-logo.png)
+
+https://github.com/apifunc
+
+Środowisko do wykonania kodu jednej prostej funkcji dla dowolnego języka programowania z listy:
++ javascript/nodeJS
++ python
++ php
+
+Odpowiedzialna osoba:
++ #DEV-ROLE
+
+
+
 
 ![Apibuild2](apibuild2.png)
 
@@ -225,7 +243,7 @@ https://github.com/DevOpsTerminal
 
 Console Client with WebUI to acces by SSH many servers
 
-Responsibility:
+Odpowiedzialna osoba:
 + #ADMIN-ROLE
 
 Components:
@@ -239,7 +257,7 @@ https://github.com/promagen
 
 Project Manager & Generator is WebUI client installed on selected server to acces Customers on own projects, by executong defined shell scripts
 
-Responsibility:
+Odpowiedzialna osoba:
 + #END-USER-ROLE
 + #MANAGER-ROLE
 
