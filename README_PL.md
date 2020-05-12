@@ -96,7 +96,7 @@ Każdy skrypt zaczyna się od wyświetlanego przez komendę @echo informacji o p
 
 ## Korzyści
 
-Istnieją dobre rozwiązania, alternatywne podejścia, API Foundation skupia się na długofalowym wsparciu środowiska,
+Istnieją inne dobre rozwiązania i podejścia, API Foundation skupia się na długofalowym wsparciu środowiska,
 zamiaast na krótkotrwałym sukcesie komercyjnym, dlatego te projekty są otwarte i bezpłatne.
 
 + tak jak wiele projektów typu open source, dzielimy się pomysłami i praktyczną wiedzą
