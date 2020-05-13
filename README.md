@@ -319,3 +319,97 @@ it's a simple open solution for public FaaS
 
 For private, company private API with authorisation we preparing the FaaSapp platform
 + [FaaSapp.com](https://faasapp.com)
+
+
+# Another solutions
+
+# [Tekton](https://tekton.dev/)
+
+> Tekton is a powerful and flexible
+>
+> open-source framework for creating CI/CD systems,
+>
+> allowing developers to
+>
+> build, test, and deploy
+>
+> across cloud providers and on-premise systems.
+>
+> [Get started with interactive tutorials.](https://tekton.dev/try)
+
+
+
+# [Spinnaker](https://www.spinnaker.io/)
+
+> ## Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+>
+> Created at Netflix, it has been battle-tested in production by hundreds of teams over millions of deployments. It combines a powerful and flexible pipeline management system with integrations to the major cloud providers.
+>
+> ### CI Integrations
+>
+> Listen to events, collect artifacts, and trigger pipelines from Jenkins or Travis CI. Triggers via git, cron, or a new image in a docker registry are also supported.
+>
+> ### Monitoring Integrations
+>
+> Tie your releases to monitoring services Datadog, Prometheus, Stackdriver, SignalFx, or New Relic using their metrics for canary analysis.
+>
+> ### CLI for Setup and Admin
+>
+> Install, configure, and update your Spinnaker instance with halyard, Spinnaker’s CLI tool.
+>
+> ### Deployment Strategies
+>
+> Configure pipelines with built-in deployment strategies such as highlander and red/black, with rolling red/black and canary in active development, or define your own custom strategy.
+>
+> ### VM Bakery
+>
+> Bake immutable VM images via Packer, which comes packaged with Spinnaker and offers support for Chef and Puppet templates.
+>
+> ### Notifications
+>
+> Set up event notifications for email, Slack, HipChat, or SMS (via Twilio).
+>
+> ### Role-based Access Control
+>
+> Restrict access to projects or accounts by hooking into your internal authentication system using OAuth, SAML, LDAP, X.509 certs, Google groups, Azure groups, or GitHub teams.
+>
+> ### Manual Judgments
+>
+> Require a manual approval prior to releasing an update with a manual judgement stage.
+>
+> ### White-listed Execution Windows
+>
+> Restrict the execution of stages to certain windows of time, making sure deployments happen during off-peak traffic or when the right people are on hand to monitor the roll-out.
+>
+> ### Chaos Monkey Integration
+>
+> Test that your application can survive instance failures by terminating them on purpose.
+
+
+
+# [Introduction to Vercel - Vercel Documentation](https://vercel.com/docs/v2/introduction)
+> [Introduction to Vercel](https://vercel.com/docs/v2/introduction#)
+>
+> ​Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
+>
+> ## [Deploy an Existing Project](https://vercel.com/docs/v2/introduction#deploy-an-existing-project)
+>
+> Once you have [signed up to Vercel](https://vercel.com/signup), you can use our [Git Integrations](https://vercel.com/docs/v2/git-integrations) with [GitHub](https://vercel.com/docs/v2/git-integrations/vercel-for-github), [GitLab](https://vercel.com/docs/v2/git-integrations/vercel-for-gitlab), or [Bitbucket](https://vercel.com/docs/v2/git-integrations/vercel-for-bitbucket) to deploy an existing project – then with a deployment for every push – by selecting a repository from your Git account.
+>
+> Select a Git provider below to get started deploying your existing repositories and projects:
+>
+> GitHub[](https://vercel.com/import/git?tab=gitlab)GitLab[](https://vercel.com/import/git?tab=bitbucket)Bitbucket
+>
+> Connect through the ["Import Project"](https://vercel.com/import) page under the "From an existing project" section, and then from the same place, set up a project using your Git Integration.
+>
+> **Note:** For more information on setting up Git to deploy with Vercel and what you can do with it, see [the Git Integrations documentation](https://vercel.com/docs/v2/git-integrations).
+>
+> Alternatively, if you want to start fresh with a new project, use a Quickstart template from below. Additionally, you can use this method to start a new Git repository with any connected Git Integration.
+
+
+
+
+# [Jenkins X - Cloud Native CI/CD Built On Kubernetes](https://jenkins-x.io/)
+> Accelerate Your Continuous Delivery on Kubernetes
+>
+> Jenkins X provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
