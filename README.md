@@ -132,7 +132,7 @@ A + (number) PI = API
 
 
 
-## API Foundation solutions
+# API Foundation solutions
 
 ![Apibuild1](apibuild1.png)
 
@@ -160,7 +160,7 @@ Responsibility:
 
 https://github.com/apiunit
 
-definition of application for generating project on enironment with source code
+definition of application for generating project on environment with source code
 
 Responsibility:
 + #MANAGER-ROLE
@@ -220,7 +220,7 @@ https://github.com/apiexec
 runner for APIcra scripts
 
 Responsibility:
-+ # DEV-ROLE
++ #DEV-ROLE
 
 
 
