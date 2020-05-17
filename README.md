@@ -263,6 +263,21 @@ Components:
 + APIcra
 
 
+
+## [FaaS.ovh](https://faas.ovh)
+
+![4/cover.png](https://logo.faas.ovh/4/cover.png)
+
+it's a simple open solution for public FaaS
+
+Responsibility:
++ #END-USER-ROLE
++ #MANAGER-ROLE
+
+Components:
++ APIexec
++ APIcra
+
 ---
 
 # Softreck's API Foundation
@@ -313,9 +328,6 @@ Now, in 2020 we are giving solutions:
 
 ## Our Plans
 We are preparing cloud solution, a FaaS implementation of our current environment solutions:
-
-+ [FaaS.ovh](https://faas.ovh)
-it's a simple open solution for public FaaS
 
 For private, company private API with authorisation we preparing the FaaSapp platform
 + [FaaSapp.com](https://faasapp.com)
