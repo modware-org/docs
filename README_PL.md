@@ -20,7 +20,7 @@ Naszym celem jest rozpowszechnianie i wsparcie tych idei i rozwiązań dla każd
 
 + skąd wzięła się idea ekosystemu API Foundation?
 
-Jako programiści, na co dzień używamy wielu zestawów narzędzi.
+Jako programiści, na co dzień używamy wielu zestawów narzędzi, pozwalających kontrolować pracę
 
 + działamy w oparciu o sprawdzone standardy,
 + korzystamy z ekosystemów zapewniających jakość finalnej usługi, aplikacji.
@@ -28,11 +28,19 @@ Jako programiści, na co dzień używamy wielu zestawów narzędzi.
 Idea wzięła sie z praktyki, lat doświadczeń i małych ale setek kroków w trakcie tworzenia i korzystania z własnych narzędzi, które  
  obecnie rozwijamy i udostępniamy w ramach organizacji.
 
+### Korzyści ekosystemu
 
 Tak w kilka lat powstał gotowy do pokazania ekosystem, który z powodzeniem  może być stosowane przez dowolnej skali firmy i aplikacje.
-Kluczowe jest tylko określenie wartości jakich oczekujemy.
+Warto zadać sobie pytanie, czego oczekujemy w codziennej pracy?
 + czy wolimy bardziej kontrolować lokalne środowiska?
 + czy delegować zarządzanie chmurze?
+
+### Korzyści ekosystemu APIfoundation
+
+Kontrola środowiska przez programistę, poprzez definiowanie oczekiwań w skryptach: 
++ bash (APIcra)
++ python (APIcra)
++ javascript (jLoads)
 
 Rozwiązanie API Foundation docenią organizacje ceniące sobie zasoby, gdyż ani techniczne, finansowe czy merytoryczne nie są tutaj przeszkodą nawet
 dla jednoosobowej organizacji, wszystkie elementy można wdrożyć w kilka godzin
