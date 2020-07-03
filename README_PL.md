@@ -46,6 +46,12 @@ Rozwiązanie API Foundation docenią organizacje ceniące sobie zasoby, gdyż an
 dla jednoosobowej organizacji, wszystkie elementy można wdrożyć w kilka godzin
 w ciągu normalnego dnia roboczego online.
 
+### native interface, code, environment
+![api-foundation-plants.png](docs/api-foundation-plants.png)
+
+Dlaczego uważamy, że nasze rozwiązanie jest najlepsze?
+Ponieważ nie tworzymy sztucznych bytów, pseudo-języków.
+Opieramy projekty o istniejące standardy, APIFoundation udsotępnia je w postaci zmodularyzowanej.  
 
 ### Jak i kiedy zacząć?
 

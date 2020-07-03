@@ -84,6 +84,15 @@ refers to the freedom or the product not the price, expense, cost, or charge.
 + our goals are on technical sides, the rule is: better high technical level than high level of monetizing
 + that the reason, why we don't care about fast earaning money, but fast creating usage solutions on wide spectrum.
 
+
+### native interface, code, environment
+![api-foundation-plants.png](docs/api-foundation-plants.png)
+
+Why do we think our solution is the best?
+Because we never create plastic entities, pseudo-languages.
+We base projects with standard standards, APIFoundation provides them in a modularized form.
+
+
 ## What we offer You?
 
 We Love Software Development and we create the best solutions with pleasure!
