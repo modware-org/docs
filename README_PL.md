@@ -67,7 +67,7 @@ Zgodnie z zasadami panującymi w firmie, która jest patronem API Foundation, So
 w zasadzie niczego nie trzeba zmieniać, warto spojrzeć na to rozwiązanie jako na zbiór dobrych praktyk  
  zestawionych w jeden spójny ekosystem i co ważne ze wsparciem merytorycznym samych twórców.
 
-API foundation dedykuje rozwiązania do natywnych środowisk różnych systemów opepracyjnych,
+API foundation dedykuje rozwiązania do natywnych środowisk różnych systemów operacyjnych,
 nie chcemy narzucać własnych rozwiązać a pomóc tym, którzy je sobie chcą sami zorganizować
 w oparciu o sprawdzony i przetestowany kod.
 
