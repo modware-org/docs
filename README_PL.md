@@ -32,8 +32,29 @@ Idea wzięła sie z praktyki, lat doświadczeń i małych ale setek kroków w tr
 
 Tak w kilka lat powstał gotowy do pokazania ekosystem, który z powodzeniem  może być stosowane przez dowolnej skali firmy i aplikacje.
 Warto zadać sobie pytanie, czego oczekujemy w codziennej pracy?
+
+Środowisko:
 + czy wolimy bardziej kontrolować lokalne środowiska?
 + czy delegować zarządzanie chmurze?
+
+
+### Język skryptowy ssytemu operacyjnego
+Jakie jest lepsze rozwiązanie?
++ język skryptowy w natywnym środowisku systemu operacyjnego linux/ios/windows?
++ język natywny chmury?
+
+W praktyce często nie ma jasnej drogi, rozwiązania dopiero klarują sie w trakcie realizacji
+dlatego lepiej od razu korzystać z elastycznych narzędzi, wspierających natywne środowisko,
+bez niepotrzebnej abstrakcji, której korzyści są dopiero widoczne w dojrzałej apikacji.
+
+APIfoundation wspiera natywne języki skryptowe systemów operacyjnych.
+W jakim celu i dlaczego?
+Chcemy być blisko naturalnego środwiska jak to tylko możliwe i używać bstrakcji
+bądź specyficznych rozwiązań, wtedy gdy nie ma lepszego.
+Jednak pierwsze kroki niezaleznie od wybranej technologi sprawiają, że każdy może odnaleźć się
+w takim środowisku i napisać działającą apkację, by następnie rozwijać ją w docelowym srodowisko
+migrując dane i technologie.
+
 
 ### Korzyści ekosystemu APIfoundation
 
