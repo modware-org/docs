@@ -38,7 +38,7 @@ Warto zadać sobie pytanie, czego oczekujemy w codziennej pracy?
 + czy delegować zarządzanie chmurze?
 
 
-### Język skryptowy ssytemu operacyjnego
+### Język skryptowy systemu operacyjnego
 Jakie jest lepsze rozwiązanie?
 + język skryptowy w natywnym środowisku systemu operacyjnego linux/ios/windows?
 + język natywny chmury?
@@ -55,6 +55,9 @@ Jednak pierwsze kroki niezaleznie od wybranej technologi sprawiają, że każdy 
 w takim środowisku i napisać działającą apkację, by następnie rozwijać ją w docelowym srodowisko
 migrując dane i technologie.
 
+Naszym celem nie jest pisanie tylko w skryptach bash'a, gdyż skrypty natywne systemu operacyjnego
+mają pomóc w konfiguracji środowiska a nie tworzeniu aplikacji, dlatego każdy może użyć preferowanego 
+języka programowania.
 
 ### Korzyści ekosystemu APIfoundation
 
