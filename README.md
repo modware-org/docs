@@ -8,7 +8,7 @@ API Foundation provides solutions for building applications and services in any 
 The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
 Our workflow in SOftware Development is clear:
 
-    Standardisation -> Modularisation -> Automation
+    Modularisation -> Standardisation -> Automation
 
 it's a Continuous Improvement, never end development.
 
@@ -18,6 +18,7 @@ API Foundation Service has been developed as a best practice to integration capa
 
 + What are You doing for Yours environment?
 
+Bring your creative vision to life with APIfoundation tools.
 
 ### Alternative way
 
