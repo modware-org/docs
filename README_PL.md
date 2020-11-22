@@ -36,8 +36,8 @@ W sumie powstało kilka projektów działających w jednym ekosystemie.
 
 ## Cel
 
-O co chodzi w tym rozwiązaniu?
-O streamowanie danych i aplikacji, coś co należy do przyszłosci w IoT i tutaj widzę siebie.
+Streamowanie danych i aplikacji, coś co należy do przyszłosci w IoT, gdzie konieczxne jest dopasowanie obszernego ekosystemu automatycznie do warunków
+w jakich będzie pracował, nie jest to tylko kwestia konfuguracji, ale też dopasowanie w zależności od użycia i interfejsów.
 
     # IoT
     # Streamowanie Aplikacji bez przełaowywania
