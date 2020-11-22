@@ -28,6 +28,41 @@ Jako programiści, na co dzień używamy wielu zestawów narzędzi, pozwalający
 Idea wzięła sie z praktyki, lat doświadczeń i małych ale setek kroków w trakcie tworzenia i korzystania z własnych narzędzi, które  
  obecnie rozwijamy i udostępniamy w ramach organizacji.
 
+
+## Początek
+zaczęło się od potrzeby modularyzacji po stronie frontendu.
+Następnie konieczne było stworzenie do tego szybkiego deplymentu.
+W sumie powstało kilka projektów działających w jednym ekosystemie.
+
+## Cel
+
+O co chodzi w tym rozwiązaniu?
+O streamowanie danych i aplikacji, coś co należy do przyszłosci w IoT i tutaj widzę siebie.
+
+    # IoT
+    # Streamowanie Aplikacji bez przełaowywania
+    # Streamowanie środowiska dla aplikacji
+    # Budowanie Interfejsów w locie, MVP
+
+## Rozwiązania
+
+Ekosystem rozwiązań dla wielu społeczności:
+
++ programistów
++ providerów usług
++ artystów (grafików, muzyków, itd)
++ marketerów
++ zewnętrznych usługodawców
+
+
+W skład których wchodzą:
++ oprogramowanie do budowania modularnych web-aplikacji, konfiguruje się tylko URL-e z dostępem do modułów w html, javascript, css, itd
++ oprogramowanie do deploymentu, ładuje Twoją aplikację bezpośrednio na VPS, podpinasz domenę przez rekordy: CNAME, A
++ oprogramowanie do zarządzania darmowymi bibliotekami mediów,
++ .. być może w przyszłości jescze marketplace z płatnymi autorskimi skryptami, modułami, mediami, itp, które będą po prostu opłacane w modelu subskrypcji miesięcznej/rocznej.
+
+
+
 ### Korzyści ekosystemu
 
 Tak w kilka lat powstał gotowy do pokazania ekosystem, który z powodzeniem  może być stosowane przez dowolnej skali firmy i aplikacje.
