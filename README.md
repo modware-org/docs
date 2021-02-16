@@ -1,4 +1,4 @@
-+ [polish version - PL](https://www.apifoundation.com/README_PL.html)
++ [polish version - PL](https://docs.apifoundation.com/README_PL.html)
 
 # What [API Foundation](https://www.apifoundation.com) is?
 
