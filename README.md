@@ -435,3 +435,118 @@ For private, company private API with authorisation we preparing the FaaSapp pla
 > Accelerate Your Continuous Delivery on Kubernetes
 >
 > Jenkins X provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
+
+
+## API approach
+The Benefits of an API-First Approach
+An API-first approach to building products can benefit your organization in many ways. 
+And API first approach requires that teams plan, organize, and share a vision of their API program. 
+In API foundation we build and share many tools that support an API first approach.
+
+## start API
+
+Web APIs have been around for nearly 20 years.
+Form past few years are using defined concept of "API first" has gained traction with software teams. 
+
+## Current
+The number of developers taking an API-first approach to building products is rising. So today we thought we would introduce you to the concept of API first and why this approach is growing in prominence.
+
+## What Does an API-First Approach Mean?
+
+That everything about a project revolves around the idea that the end product will be consumed by mobile devices
+and that APIs will be consumed by client applications.
+
+## language
+An API-first approach involves developing APIs that are consistent and reusable, which can be accomplished by using an API description language to establish a contract for how the API is supposed to behave. 
+
+## contract
+Establishing a contract involves spending more time thinking about the design of an API. It also often involves additional planning and collaboration with the stakeholders providing feedback on the design of an API before any code is written.
+The Growing Popularity of API-First
+
+## data consumption
+Today, both humans and machines are consuming data. Humans consume data through applications, often from many different devices  — smartphones, laptops, tablets, and desktops. Many different types of devices mean many different screen sizes. Organizations must build apps that look good and work well across all devices. 
+
+## strategy
+An API-first strategy allows organizations to build APIs that serve all applications and applications can be developed and maintained efficiently for all devices, platforms, and operating systems.
+
+## Benefits
+
+
+### Development teams can work in parallel with many apps, backend, frontend, devops
+
+## contract first
+API first involves establishing a contract.
+Creating a contract between services that is followed by teams across an organization allows those teams to work on multiple APIs at the same time. Developers do not have to wait for updates to an API to be released before moving on to the next API. 
+Teams can mock APIs and test API dependencies based on the established API definition.
+Reduces the cost of developing apps.
+
+### modularisation
+APIs and code can be reused on many different projects. When a development team wants to build a new app, they don’t have to start from scratch which is time-consuming and costly. API-first design also allows most problems to be solved before any code is even written which helps prevent problems when it is time to integrate APIs with applications.
+Increases the speed to market
+
+### Automatisation
+Much of the process of building APIs can be automated using tools that allow import of API definition files. 
+Our tools allow import of API definition files, and with those files API tools such as API documentation, SDKs, and mock APIs can be auto-generated. Automation significantly speeds up the development of APIs and applications.   
+
+### benefits such on flat architecture
+API first also makes it possible to add new services and technologies to applications without having to re-architect the entire system. The competition is fierce when it comes to developing applications, so apps must be developed quickly. 
+
+### Ensures good developer experiences
+
+Consumers of APIs are most often developers, and developer experience (DX) can make or break the success of an API.
+API first ensures that developers have positive experiences using your APIs. 
+
+### learning curve
+
+Well-designed, well-documented, consistent APIs provide positive developer experiences because it’s easier to reuse code and onboard developers, and it reduces the learning curve. 
+Reduces the risk of failure
+
+For most companies, APIs are used in nearly every business process — from marketing and sales to communication and consumer-facing applications, which means that APIs can impact every part of your business positively or negatively. API first reduces the risk of failure by ensuring that APIs are reliable, consistent, and easy for developers to use.
+
+
+## How to start?
+
+### Brainstorm 
+First, it is necessary to identify key services your business offers and capabilities of the business. 
++ figure out the kinds of APIs that should be built and which services should be offered via APIs
++ figure out and write down the use cases for each API
++ write down potential endpoints based on those use cases
+    
+### Establish API stakeholders
+Who are the stakeholders within your organization? As many people as possible should be involved in your API initiative – you need company-wide buy-in and a vision that is shared by teams within your organization. Also, allow stakeholders to weigh in on the design of the API. Stakeholders can then agree on interactions across the organization so that APIs remain consistent.
+    
+### Design an API contract, Consistency is key
++ The contract establishes a set of standards and best practices for designing APIs
++ Be sure to describe and document all APIs. 
++ Ensure that all APIs work the same, from endpoint names and URLs to error codes and versioning. 
+
+
+### Create a style guide
++ A comprehensive, cohesive style guide ensures consistency across the teams of an organization who are building services. 
++ API status codes, versioning, error handling, and more will be standardized ensuring that APIs are designed the same way. 
++ Use a tool to create a style guide for all APIs across your organization.
+    
+### Implement API governance
++ An API governance process can help enforce established standards and reinforce desired outcomes. 
++ We discuss API governance in an upcoming blog article. 
++ Conducting peer code reviews can also help ensure that API design standards are followed and that developers are producing quality code.
+    
+### Automate processes 
++ Use tools to automate processes like generating API documentation, style validation, API mocking, and versioning. 
++ Also, make APIs self-service so that developers can get started building apps with your APIs right away. 
++ Provide interactive documentation or a sandbox so that developers can try out API endpoints. 
+    
+### Track and manage your API portfolio
++ Avoid duplicating code and building redundant APIs by tracking and managing your API portfolio.
++ Implement a system that helps you track and manage your APIs. 
++ The larger your organization and platform becomes, the harder it gets to track APIs and their dependencies.
+
+### Create a portal for internal developers
++ Create a central place for internal developers a place where everything for all your APIs is stored:
++ API specification
++ documentation
++ contracts
+
+
+
+
