@@ -9,7 +9,7 @@ Podstawowy interfejs API oparty na skryptach powłoki, które
 umożliwiają pobieranie, zarządzanie, przetwarzania i publikowanie danych.
 
 
-    Standaryzacja -> Modularyzacja -> Automatyzacja
+    Modularyzacja -> Standaryzacja -> Specjalizacja -> Automatyzacja
 
 ## Dlaczego API Foundation?
 
