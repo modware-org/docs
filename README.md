@@ -548,5 +548,12 @@ Who are the stakeholders within your organization? As many people as possible sh
 + contracts
 
 
+# Tools online
+
+## SVG
+https://vectr.com/tmp/f1tTRERgJD/gB3wURKki
+
+https://editor.method.ac/
+
 
 
