@@ -324,7 +324,8 @@ Turning a clever feature into a profitable solution.
 # HOW TO START?
 You can exercise all of the Foundation API methods through the API Console as well as view documentation and descriptions of the inputs and outputs of each API method.
 
-# Solutions
+# API Solutions
+
 We started in 2018 with few concepts but one idea: fastest development.
 Now, in 2020 we are giving solutions:
 
@@ -334,6 +335,23 @@ Now, in 2020 we are giving solutions:
 + [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
 + [APIsql - data bases, queries, models](https://www.apisql.com)
 + [APIfunc - FaaS solutions](https://www.apifunc.com)
+
+
+
+# Opensource functions
+
++ denofunc.com
++ golangfunc.com
++ javafunc.com
++ luafunc.com
++ nodejsfunc.com
++ phpfunc.com
++ pyfunc.com
++ rubyfunc.com
++ rustfunc.com
++ shellfunc.com
+	
+
 
 
 ## Our Plans
