@@ -156,7 +156,7 @@ A + (number) PI = API
 
 
 
-# **MODWARE** solutions
+## **MODWARE** solutions
 
 ![Apibuild1](apibuild1.png)
 
@@ -217,6 +217,33 @@ We support for future growth and innovation, emphasizing that new developments i
 - It presents Modware as a regulatory body or a standard-setting organization.
 - The focus is on consistency, quality, and compatibility across different modular products and systems.
 - It might attract companies, developers, and engineers who are looking to align their products or designs with industry-standard modular principles for better interoperability and scalability.
+
+
+
+
+## MODWARE PL
+
+Modularyzacja jest ważnym aspektem w dzisiejszym świecie technologii i może przynieść wiele korzyści w projektowaniu i utrzymaniu systemów.
+
+1. **Modular Design (Projektowanie Modułowe)**:
+   - **Modularny design** to podejście projektowe, które skupia się na tworzeniu systemów lub produktów za pomocą **modułów**. Każdy moduł jest samodzielny i może być łatwo wymieniany lub modyfikowany bez wpływu na inne części systemu.
+   - Przykład: Projektowanie samochodu z oddzielnymi modułami dla silnika, układu elektrycznego, wnętrza, itp.
+
+2. **Modular Standards**:
+   - **Modularne standardy** to zbiór zasad i wytycznych, które mają na celu zapewnienie spójności i interoperacyjności między różnymi modułami w systemie.
+   - Przykład: Standardy komunikacji między różnymi komponentami oprogramowania w architekturze mikroserwisów.
+
+3. **Modular Principles**:
+   - **Modularne zasady** to fundamentalne przekonania i wytyczne, które kierują projektowaniem i implementacją modułów.
+   - Przykład: Zasada "jednej odpowiedzialności" mówiąca, że każdy moduł powinien mieć jedno konkretne zadanie.
+
+4. **Modular Foundation**:
+   - **Modularna podstawa** to kompleksowe podejście, które łączy wszystkie aspekty modułowego świata: design, standardy i zasady.
+   - Przykład: Organizacja Modware pracuje nad tworzeniem fundamentów, które wspierają rozwój modułowych systemów.
+
+
+
+
 
 
 
