@@ -1,4 +1,4 @@
-+ [polish version - PL](https://docs.StandardsWare.com/README_PL.html)
++ [polish version - PL](https://docs.modware.org/README_PL.html)
 
 ## keywords
 
@@ -10,11 +10,11 @@
 + definitions
 + requierements
 
-# What [**Standards Ware**](https://docs.StandardsWare.com) is?
+# What [**MODWARE**](https://docs.modware.org) is?
 
-![logo](https://logo.StandardsWare.com/2/cover.png)
+![logo](https://logo.modware.org/2/cover.png)
 
-**Standards Ware** provides solutions for building applications and services in any environment.
+**MODWARE** provides solutions for building applications and services in any environment.
 The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
 Our workflow in SOftware Development is clear:
 
@@ -24,9 +24,9 @@ it's a Continuous Improvement, never end development.
 
 
 
-## Why **Standards Ware**?
+## Why **MODWARE**?
 
-**Standards Ware** Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
+**MODWARE** Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
 
 + What are You doing for Yours environment?
 
@@ -42,13 +42,13 @@ How old are these technologies, what can be after 10 years?
 
 If You are creating serious software for long term, the perspective is very important.
 
-That's why **Standards Ware** is not creating new tool, just using the old school tools in beauty way, because  
+That's why **MODWARE** is not creating new tool, just using the old school tools in beauty way, because  
 the quality is for us very important and we expect long-term solution, which is not just popular solution for today!
 
 If You are looking for long term solutions the standards are clear, what you can just make better are standards of usage it, such testing
 
 For us is clear that we need solution for whole our (not just application) life.  
-It can take next 50 years for support **Standards Ware** solutions.
+It can take next 50 years for support **MODWARE** solutions.
 
 We know it and we are ready for it!
 
@@ -156,7 +156,7 @@ A + (number) PI = API
 
 
 
-# **Standards Ware** solutions
+# **MODWARE** solutions
 
 ![Apibuild1](apibuild1.png)
 
@@ -253,7 +253,7 @@ Responsibility:
 
 ---
 
-# The projects are using **Standards Ware** solutions
+# The projects are using **MODWARE** solutions
 
 ## [DevOpsTerminal](https://docs.devopsterminal.com/)
 
@@ -304,9 +304,9 @@ Components:
 
 ---
 
-# Softreck's **Standards Ware**
+# Softreck's **MODWARE**
 
-The **Standards Ware** is created and sponsored by the Softreck from Estonia.
+The **MODWARE** is created and sponsored by the Softreck from Estonia.
 Softreck Company is sharing tools to give Organisations more benefits, to have under control all steps in software and Hardware Development.
 + [Leadership Through Software Development](https://softreck.com)
 
@@ -470,7 +470,7 @@ For private, company private API with authorisation we preparing the FaaSapp pla
 The Benefits of an API-First Approach
 An API-first approach to building products can benefit your organization in many ways. 
 And API first approach requires that teams plan, organize, and share a vision of their API program. 
-In **Standards Ware** we build and share many tools that support an API first approach.
+In **MODWARE** we build and share many tools that support an API first approach.
 
 ## start API
 
