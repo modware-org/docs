@@ -1,10 +1,20 @@
-+ [polish version - PL](https://docs.apifoundation.com/README_PL.html)
++ [polish version - PL](https://docs.StandardsWare.com/README_PL.html)
 
-# What [API Foundation](https://docs.apifoundation.com) is?
+## keywords
 
-![logo](https://logo.apifoundation.com/2/cover.png)
++ patterns
++ rules
++ technology
++ standards
++ software
++ definitions
++ requierements
 
-API Foundation provides solutions for building applications and services in any environment.
+# What [**Standards Ware**](https://docs.StandardsWare.com) is?
+
+![logo](https://logo.StandardsWare.com/2/cover.png)
+
+**Standards Ware** provides solutions for building applications and services in any environment.
 The Foundation API based on shell scripts that allow you to retrieve, manage and publish Your data to various display services, run geoprocessing models, and more.
 Our workflow in SOftware Development is clear:
 
@@ -12,13 +22,17 @@ Our workflow in SOftware Development is clear:
 
 it's a Continuous Improvement, never end development.
 
-## Why API Foundation?
 
-API Foundation Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
+
+## Why **Standards Ware**?
+
+**Standards Ware** Service has been developed as a best practice to integration capability of software, to give end customers the best product and service!
 
 + What are You doing for Yours environment?
 
-Bring your creative vision to life with APIfoundation tools.
+Bring your creative vision to life with StandardsWare tools.
+
+
 
 ### Alternative way
 
@@ -28,13 +42,13 @@ How old are these technologies, what can be after 10 years?
 
 If You are creating serious software for long term, the perspective is very important.
 
-That's why API Foundation is not creating new tool, just using the old school tools in beauty way, because  
+That's why **Standards Ware** is not creating new tool, just using the old school tools in beauty way, because  
 the quality is for us very important and we expect long-term solution, which is not just popular solution for today!
 
 If You are looking for long term solutions the standards are clear, what you can just make better are standards of usage it, such testing
 
 For us is clear that we need solution for whole our (not just application) life.  
-It can take next 50 years for support API Foundation solutions.
+It can take next 50 years for support **Standards Ware** solutions.
 
 We know it and we are ready for it!
 
@@ -91,7 +105,7 @@ refers to the freedom or the product not the price, expense, cost, or charge.
 
 Why do we think our solution is the best?
 Because we never create plastic entities, pseudo-languages.
-We base projects with standard standards, APIFoundation provides them in a modularized form.
+We base projects with standard standards, StandardsWare provides them in a modularized form.
 
 
 ## What we offer You?
@@ -106,7 +120,7 @@ We are independent and free to create the best IT solutions on the World!
 ### Example of wide spectrum on technical side
 
 if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
-In APIFoundation case we are supporting and providing for each language the same SDK solution, which  
+In StandardsWare case we are supporting and providing for each language the same SDK solution, which  
 avaliable to use in your application programming language.
 
 Who give you the opportunity to use your own technical solutions in external libraries?
@@ -142,7 +156,7 @@ A + (number) PI = API
 
 
 
-# API Foundation solutions
+# **Standards Ware** solutions
 
 ![Apibuild1](apibuild1.png)
 
@@ -239,7 +253,7 @@ Responsibility:
 
 ---
 
-# The projects are using API Foundation solutions
+# The projects are using **Standards Ware** solutions
 
 ## [DevOpsTerminal](https://docs.devopsterminal.com/)
 
@@ -290,9 +304,9 @@ Components:
 
 ---
 
-# Softreck's API Foundation
+# Softreck's **Standards Ware**
 
-The API Foundation is created and sponsored by the Softreck from Estonia.
+The **Standards Ware** is created and sponsored by the Softreck from Estonia.
 Softreck Company is sharing tools to give Organisations more benefits, to have under control all steps in software and Hardware Development.
 + [Leadership Through Software Development](https://softreck.com)
 
@@ -456,7 +470,7 @@ For private, company private API with authorisation we preparing the FaaSapp pla
 The Benefits of an API-First Approach
 An API-first approach to building products can benefit your organization in many ways. 
 And API first approach requires that teams plan, organize, and share a vision of their API program. 
-In API foundation we build and share many tools that support an API first approach.
+In **Standards Ware** we build and share many tools that support an API first approach.
 
 ## start API
 
