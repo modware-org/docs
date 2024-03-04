@@ -30,7 +30,7 @@ it's a Continuous Improvement, never end development.
 
 + What are You doing for Yours environment?
 
-Bring your creative vision to life with StandardsWare tools.
+Bring your creative vision to life with MODWARE tools.
 
 
 
@@ -105,7 +105,7 @@ refers to the freedom or the product not the price, expense, cost, or charge.
 
 Why do we think our solution is the best?
 Because we never create plastic entities, pseudo-languages.
-We base projects with standard standards, StandardsWare provides them in a modularized form.
+We base projects with standard standards, MODWARE provides them in a modularized form.
 
 
 ## What we offer You?
@@ -120,7 +120,7 @@ We are independent and free to create the best IT solutions on the World!
 ### Example of wide spectrum on technical side
 
 if You need solve technical problem based on Python/Java/NodeJS, many solutions are based on one language.
-In StandardsWare case we are supporting and providing for each language the same SDK solution, which  
+In MODWARE case we are supporting and providing for each language the same SDK solution, which  
 avaliable to use in your application programming language.
 
 Who give you the opportunity to use your own technical solutions in external libraries?
@@ -180,6 +180,45 @@ We support for future growth and innovation, emphasizing that new developments i
 - Implies robustness, stability, and reliability in the field of modular design and standardization.
 - for a broad audience, including educators, developers, manufacturers, and businesses seeking a strong starting point in their journey towards modularity.
   
+
+
+
+
+### Modware - Modular Principles
+
+**Focus**: This emphasizes the fundamental guidelines and philosophies that drive modular design and development. It suggests that Modware is devoted to the core ideas and values that make up the concept of modularity in technology.
+
+**Implications**:
+- Positions Modware as a thought leader and educational resource in the realm of modularity.
+- Suggests a commitment to the broader concepts of modularity, including flexibility, scalability, and efficiency.
+- It could appeal to a wide audience—from educators and students to designers, engineers, and companies—interested in understanding and applying modular design principles.
+
+### Strategic Considerations
+
+- **Vision and Mission**: If Modware aims to educate, inspire, and guide the technology community about the virtues of modularity, "Modular Principles" could be more aligned with its goals.
+- **Community and Collaboration**: This tagline also implies an openness to collaboration and discussion about what modularity means and how it can evolve, potentially fostering a community around these ideas.
+- **Innovation vs. Standardization**: Unlike "Modular Standards," which leans towards conformity and interoperability, "Modular Principles" allows for a broader interpretation that can include innovation within the conceptual framework of modularity.
+
+
+### Modware - Modular Design
+
+**Focus**: This tagline emphasizes the concept and principles of modular design itself. It suggests that Modware is directly involved in the design aspect, advocating for or perhaps even pioneering designs that are modular in nature.
+
+**Implications**:
+- It positions Modware as an authority or leader in modular design practices.
+- The emphasis is more on the creative and innovative aspects of modular systems.
+- It might appeal more broadly to designers, engineers, and companies interested in adopting modular design principles in their work.
+
+### Modware - Modular Standards
+
+**Focus**: This tagline places emphasis on establishing, promoting, or adhering to modular standards. It indicates that Modware's primary role is to define and possibly enforce guidelines that ensure modular compatibility and interoperability.
+
+**Implications**:
+- It presents Modware as a regulatory body or a standard-setting organization.
+- The focus is on consistency, quality, and compatibility across different modular products and systems.
+- It might attract companies, developers, and engineers who are looking to align their products or designs with industry-standard modular principles for better interoperability and scalability.
+
+
 
 
 ### [APIbuild](https://www.apibuild.com)
