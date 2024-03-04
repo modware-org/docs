@@ -161,6 +161,27 @@ A + (number) PI = API
 ![Apibuild1](apibuild1.png)
 
 
+
+### Modware - Modular Foundation
+
+Modware is about building or providing the essential base upon which modular systems, designs, and standards can develop and thrive. It implies both a conceptual and practical grounding in everything related to modularity.
+holistic approach to modularity, covering everything from basic principles and design to standards and applications.
+Modware plays a pivotal role in educating and guiding the industry toward a solid understanding and adoption of modular techniques.
+We support for future growth and innovation, emphasizing that new developments in modularity are grounded in solid, well-established practices.\
+
+- **Modular Design** focuses specifically on the application of modularity in creating designs.
+- **Modular Standards** is about setting and promoting rules for interoperability and consistency within modular systems.
+- **Modular Principles** outlines the core beliefs and guidelines that underpin the modular approach.
+- **Modular Foundation** encompasses all of the above by suggesting that Modware is working on the essential groundwork that supports principles, standards, and design in the modular world.
+
+### Solutions
+
+- Positions Modware as the foundational bedrock in the modular technology ecosystem.
+- Implies robustness, stability, and reliability in the field of modular design and standardization.
+- for a broad audience, including educators, developers, manufacturers, and businesses seeking a strong starting point in their journey towards modularity.
+  
+
+
 ### [APIbuild](https://www.apibuild.com)
 
 ![apibuild-logo.png](https://logo.apibuild.com/apibuild-logo.png)
